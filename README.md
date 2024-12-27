@@ -17,14 +17,6 @@
 </div>
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on **SQL, React, Nodejs, MongoDB**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
