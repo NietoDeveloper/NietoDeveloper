@@ -22,7 +22,7 @@
 
 <p align="center" img-allign="center">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react" alt="GitHub Streak" /><img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=shadow_blue" />  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=dark"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react" alt="GitHub Streak" /><img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=shadow_blue" />  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=blue"/></a>
 
 
 </p>
