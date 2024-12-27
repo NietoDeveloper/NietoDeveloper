@@ -24,6 +24,8 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react" alt="GitHub Streak" /></a>
 
+<a href="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&theme=react" /><a/>
+
 </p>
 
 
