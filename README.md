@@ -26,12 +26,6 @@
 
 </p>
 
-<p align="center">
-
-  <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=_dark" /></a>
-</p>
-
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
