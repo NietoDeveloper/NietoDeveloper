@@ -24,12 +24,6 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react" alt="GitHub Streak" /></a>
 
-https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark
-
-</p>
-
-<p align="center">
-
 <a href="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark" /></a>
 
 </p>
