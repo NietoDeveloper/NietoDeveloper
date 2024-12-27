@@ -22,9 +22,7 @@
 
 <p align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react" alt="GitHub Streak" /></a>
-
-https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=radical
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react" alt="GitHub Streak" /><img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=_dark" /></a>
 
 
 </p>
