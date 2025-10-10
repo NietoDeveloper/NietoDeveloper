@@ -4,8 +4,10 @@
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
   
 ## Coding For Serve
-<image-card alt="Committers Top" src="https://user-badge.committers.top/colombia/NietoDeveloper.svg" ></image-card>
-<image-card alt="Committers Top Public" src="https://user-badge.committers.top/colombia_public/NietoDeveloper.svg" ></image-card>
+
+<a href="https://user-badge.committers.top/colombia/NietoDeveloper" target="_blank"><img src="https://user-badge.committers.top/colombia/NietoDeveloper.svg" alt="Committers Top"></a>
+<a href="https://user-badge.committers.top/colombia_public/NietoDeveloper" target="_blank"><img src="https://user-badge.committers.top/colombia_public/NietoDeveloper.svg" alt="Committers Top Public"></a>
+
 ### ⚙️ GitHub Analytics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react)](https://git.io/streak-stats)
