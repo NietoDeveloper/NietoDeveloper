@@ -5,8 +5,8 @@
   
 ## Coding For Serve
 
-[![Committers Top](https://user-badge.committers.top/colombia/NietoDeveloper.svg)](https://user-badge.committers.top/colombia/NietoDeveloper)
-[![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://user-badge.committers.top/colombia_public/NietoDeveloper)
+[![Committers Top](https://user-badge.committers.top/colombia/NietoDeveloper.svg)](https://user-badge.committers.top/colombia/NietoDeveloper){target="_blank"}
+[![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://user-badge.committers.top/colombia_public/NietoDeveloper){target="_blank"}
 
 ### ⚙️ GitHub Analytics
 
