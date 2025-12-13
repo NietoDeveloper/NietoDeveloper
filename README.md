@@ -18,7 +18,7 @@
 
 ## Technologies That I Know
 
-[![Tech Stack](https://skillicons.dev/icons?i=aws,docker,postgres,nextjs,react,nodejs,mongodb,express,typescript,tailwind,materialui,git,github,vscode,firebase,mysql,html,css,js,vite,npm,bootstrap,astro,powershell,postman)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=aws,docker,postgres,nextjs,react,nodejs,mongodb,express,typescript,git,github,mysql,html,css,js)](https://skillicons.dev)
 
 Credit: [NietoDeveloper](https://github.com/NietoDeveloper)  
 Last Edited on: 1/6/2025
