@@ -8,7 +8,7 @@
   
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
   
-# Full-Stack Software Engineer | Front Specialist | MERN | Top 3 GitHub Contributor 🇨🇴 committers.top/colombia
+# Full-Stack Software Engineer | Front Specialist | MERN | Top 1 GitHub Contributor 🇨🇴 committers.top/colombia
 
 ### ⚙️ GitHub Analytics
 
