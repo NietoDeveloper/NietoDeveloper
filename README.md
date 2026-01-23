@@ -7,7 +7,7 @@
   
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
   
-# Full-Stack Software Engineer | Architecture & Systems
+# Full-Stack Software Engineer | Architecture & Systems | MERN-Front-Specillist
 ## 🏆 #1 GitHub Contributor in Colombia 🇨🇴 
 ### [committers.top/colombia](https://committers.top/colombia#NietoDeveloper)
 
@@ -37,7 +37,7 @@
 
 ---
 
-**"Building scalable systems with 100% discipline."** *8,300+ Commits | 170+ Days Streak | World-Class Engineering*
+**"Building scalable systems with 100% discipline."** * World-Class Engineering*
 
 Credit: [NietoDeveloper](https://github.com/NietoDeveloper)  
 **Last Updated: 1/23/2026**
