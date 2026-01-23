@@ -11,6 +11,13 @@
 ## 🏆 #1 GitHub Contributor in Colombia 🇨🇴 
 ### [committers.top/colombia](https://committers.top/colombia#NietoDeveloper)
 
+### ⚙️ GitHub Analytics
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&border_radius=10)](https://github-readme-stats.vercel.app)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=dark&border_radius=10)](https://github-readme-stats-eight-theta.vercel.app)
+
 ---
 
 ## 🚀 Active Ecosystems (DT Projects)
@@ -23,13 +30,6 @@
 | **MonicaNadramunio** | Professional Web Platform & Portfolio | **Live** |
 
 ---
-
-### ⚙️ GitHub Analytics
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&border_radius=10)](https://github-readme-stats.vercel.app)
-[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=dark&border_radius=10)](https://github-readme-stats-eight-theta.vercel.app)
 
 ## Technologies That I Master
 
