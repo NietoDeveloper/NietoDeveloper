@@ -14,7 +14,7 @@ Next.js, Node.js, MongoDB, AWS and Docker.
   <img src="https://user-badge.committers.top/colombia_public/NietoDeveloper.svg" height="28" alt="Committers Top Public">
 </a>
 
-## 🏆 GitHub Top # 1 - Contributor in Colombia 🇨🇴  
+## 🏆 GitHub Top # 1 - Colombia 🇨🇴  
 ### [committers.top/colombia](https://committers.top/colombia#NietoDeveloper)
 
 ---
