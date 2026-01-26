@@ -8,10 +8,10 @@ focused on building production-ready, scalable systems using React,
 Next.js, Node.js, MongoDB, AWS and Docker.
 
 <a href="https://user-badge.committers.top/colombia/NietoDeveloper" target="_blank">
-  <img src="https://user-badge.committers.top/colombia/NietoDeveloper.svg" height="28" alt="Committers Top Colombia">
+  <img src="https://user-badge.committers.top/colombia/NietoDeveloper.svg" height="30" alt="Committers Top Colombia">
 </a>
 <a href="https://user-badge.committers.top/colombia_public/NietoDeveloper" target="_blank">
-  <img src="https://user-badge.committers.top/colombia_public/NietoDeveloper.svg" height="28" alt="Committers Top Public">
+  <img src="https://user-badge.committers.top/colombia_public/NietoDeveloper.svg" height="30" alt="Committers Top Public">
 </a>
 
 ## 🏆 GitHub Top # 1 - Colombia 🇨🇴  
