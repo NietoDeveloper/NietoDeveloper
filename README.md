@@ -72,7 +72,7 @@ Deployment · CI/CD
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&border_radius=10)](https://github-readme-stats.vercel.app)
 [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=dark&border_radius=10)](https://github-readme-stats-eight-theta.vercel.app)
 
----
+![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 **"Building scalable systems with 100% discipline."**  
 *World-Class Engineering*
