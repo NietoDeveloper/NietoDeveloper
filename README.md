@@ -1,9 +1,11 @@
 <div align="center">
-# Manuel Nieto — Full-Stack Software Engineer
+
+# Manuel Nieto — Full-Stack Software Engineer  
 ## Architecture & Systems · MERN Front Specialist
 
-I am a Full-Stack Software Engineer specialized in MERN architecture,  
-focused on building production-ready, scalable systems using React, Next.js, Node.js, MongoDB, AWS and Docker.
+I am a Full-Stack Software Engineer specialized in MERN architecture, 
+focused on building production-ready, scalable systems using React, 
+Next.js, Node.js, MongoDB, AWS and Docker.
 
 <a href="https://user-badge.committers.top/colombia/NietoDeveloper" target="_blank">
   <img src="https://user-badge.committers.top/colombia/NietoDeveloper.svg" height="34" alt="Committers Top Colombia">
@@ -15,70 +17,21 @@ focused on building production-ready, scalable systems using React, Next.js, Nod
   <img src="https://user-badge.committers.top/colombia_private/NietoDeveloper.svg" alt="committers.top private badge">
 </a>
 
-## 🏆 GitHub Top # 1 - Colombia 🇨🇴
+## 🏆 GitHub Top # 1 - Colombia 🇨🇴  
 ### [committers.top/colombia](https://committers.top/colombia#NietoDeveloper)
 
 ---
 
 ## 🚀 Active Ecosystems (DT Projects)
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 2.5rem 0;">
-  <!-- Software DT -->
-  <a href="https://softwaredt.vercel.app/" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; height: 100%; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
-         onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)';"
-         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.3)';">
-      <div style="background: linear-gradient(to right, #21262d, #161b22); padding: 1rem; border-bottom: 1px solid #30363d;">
-        <h3 style="margin: 0; color: #58a6ff;">Software DT</h3>
-      </div>
-      <div style="padding: 1.25rem;">
-        <p style="margin: 0 0 1rem; opacity: 0.9; font-size: 0.95rem;">Main Hub – Core Service Architecture & Booking</p>
-        <p style="margin: 0; font-weight: bold; color: #238636; font-size: 1rem;">Status: Production</p>
-      </div>
-    </div>
-  </a>
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| **[Software DT](https://softwaredt.vercel.app/)** | Main Hub – Core Service Architecture & Booking | **Production** |
+| **[Drone DT](https://dronedt.vercel.app/)** | Digital Twin Control Dashboard (Next.js + AWS) | **In Development** |
+| **Emerald DT** | High-Value Asset Management System | **In Development** |
+| **MonicaNadramunio** | Professional Web Platform & Portfolio | **Live** |
 
-  <!-- Drone DT -->
-  <a href="https://dronedt.vercel.app/" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; height: 100%; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
-         onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)';"
-         onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.3)';">
-      <div style="background: linear-gradient(to right, #21262d, #161b22); padding: 1rem; border-bottom: 1px solid #30363d;">
-        <h3 style="margin: 0; color: #58a6ff;">Drone DT</h3>
-      </div>
-      <div style="padding: 1.25rem;">
-        <p style="margin: 0 0 1rem; opacity: 0.9; font-size: 0.95rem;">Digital Twin Control Dashboard (Next.js + AWS)</p>
-        <p style="margin: 0; font-weight: bold; color: #9e6a03; font-size: 1rem;">Status: In Development</p>
-      </div>
-    </div>
-  </a>
-
-  <!-- Emerald DT -->
-  <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; height: 100%; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
-       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.3)';">
-    <div style="background: linear-gradient(to right, #21262d, #161b22); padding: 1rem; border-bottom: 1px solid #30363d;">
-      <h3 style="margin: 0; color: #58a6ff;">Emerald DT</h3>
-    </div>
-    <div style="padding: 1.25rem;">
-      <p style="margin: 0 0 1rem; opacity: 0.9; font-size: 0.95rem;">High-Value Asset Management System</p>
-      <p style="margin: 0; font-weight: bold; color: #9e6a03; font-size: 1rem;">Status: In Development</p>
-    </div>
-  </div>
-
-  <!-- MonicaNadramunio -->
-  <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; overflow: hidden; height: 100%; transition: transform 0.3s ease, box-shadow 0.3s ease; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
-       onmouseover="this.style.transform='translateY(-8px)'; this.style.boxShadow='0 16px 32px rgba(88,166,255,0.25)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.3)';">
-    <div style="background: linear-gradient(to right, #21262d, #161b22); padding: 1rem; border-bottom: 1px solid #30363d;">
-      <h3 style="margin: 0; color: #58a6ff;">MonicaNadramunio</h3>
-    </div>
-    <div style="padding: 1.25rem;">
-      <p style="margin: 0 0 1rem; opacity: 0.9; font-size: 0.95rem;">Professional Web Platform & Portfolio</p>
-      <p style="margin: 0; font-weight: bold; color: #238636; font-size: 1rem;">Status: Live</p>
-    </div>
-  </div>
-</div>
+---
 
 ## Technologies That I Master
 
@@ -118,6 +71,7 @@ Deployment · CI/CD
 ## ⚙️ GitHub Analytics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10)](https://git.io/streak-stats)
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&border_radius=10)](https://github-readme-stats.vercel.app)
 [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=dark&border_radius=10)](https://github-readme-stats-eight-theta.vercel.app)
 
@@ -127,7 +81,7 @@ Deployment · CI/CD
 *World-Class Engineering*
 
 Credit: [NietoDeveloper](https://github.com/NietoDeveloper)  
-**Last Updated: January 27, 2026**  
+**Last Updated: 1/23/2026**
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
