@@ -22,49 +22,39 @@ focused on building production-ready, scalable systems using React, Next.js, Nod
 
 ## 🚀 Active Ecosystems (DT Projects)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin: 2.5rem 0;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin: 2rem 0;">
   <!-- Software DT -->
-  <a href="https://softwaredt.vercel.app/" target="_blank" style="text-decoration: none; color: inherit; flex: 0 1 320px; max-width: 320px;">
-    <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.75rem; height: 100%; transition: transform 0.3s ease, box-shadow 0.3s ease;"
-         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 20px rgba(88,166,255,0.25)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-      <h3 style="margin: 0 0 0.75rem; color: #58a6ff;">🚀 Software DT</h3>
+  <a href="https://softwaredt.vercel.app/" target="_blank" style="text-decoration: none; color: inherit; flex: 0 1 300px; max-width: 300px;">
+    <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5rem; height: 100%; transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      <h3 style="margin: 0 0 0.75rem; color: #58a6ff;">Software DT</h3>
       <p style="margin: 0 0 1rem; opacity: 0.9;">Main Hub – Core Service Architecture & Booking</p>
       <p style="margin: 0; font-weight: bold; color: #238636;">Status: Production</p>
     </div>
   </a>
 
   <!-- Drone DT -->
-  <a href="https://dronedt.vercel.app/" target="_blank" style="text-decoration: none; color: inherit; flex: 0 1 320px; max-width: 320px;">
-    <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.75rem; height: 100%; transition: transform 0.3s ease, box-shadow 0.3s ease;"
-         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 20px rgba(88,166,255,0.25)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-      <h3 style="margin: 0 0 0.75rem; color: #58a6ff;">🛸 Drone DT</h3>
+  <a href="https://dronedt.vercel.app/" target="_blank" style="text-decoration: none; color: inherit; flex: 0 1 300px; max-width: 300px;">
+    <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5rem; height: 100%; transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+      <h3 style="margin: 0 0 0.75rem; color: #58a6ff;">Drone DT</h3>
       <p style="margin: 0 0 1rem; opacity: 0.9;">Digital Twin Control Dashboard (Next.js + AWS)</p>
       <p style="margin: 0; font-weight: bold; color: #9e6a03;">Status: In Development</p>
     </div>
   </a>
 
   <!-- Emerald DT -->
-  <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.75rem; flex: 0 1 320px; max-width: 320px; height: 100%; transition: transform 0.3s ease, box-shadow 0.3s ease;"
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 20px rgba(88,166,255,0.25)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    <h3 style="margin: 0 0 0.75rem; color: #58a6ff;">💎 Emerald DT</h3>
+  <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5rem; flex: 0 1 300px; max-width: 300px; height: 100%; transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <h3 style="margin: 0 0 0.75rem; color: #58a6ff;">Emerald DT</h3>
     <p style="margin: 0 0 1rem; opacity: 0.9;">High-Value Asset Management System</p>
     <p style="margin: 0; font-weight: bold; color: #9e6a03;">Status: In Development</p>
   </div>
 
   <!-- MonicaNadramunio -->
-  <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.75rem; flex: 0 1 320px; max-width: 320px; height: 100%; transition: transform 0.3s ease, box-shadow 0.3s ease;"
-       onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 10px 20px rgba(88,166,255,0.25)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';">
-    <h3 style="margin: 0 0 0.75rem; color: #58a6ff;">👩‍💻 MonicaNadramunio</h3>
+  <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5rem; flex: 0 1 300px; max-width: 300px; height: 100%; transition: all 0.3s ease; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <h3 style="margin: 0 0 0.75rem; color: #58a6ff;">MonicaNadramunio</h3>
     <p style="margin: 0 0 1rem; opacity: 0.9;">Professional Web Platform & Portfolio</p>
     <p style="margin: 0; font-weight: bold; color: #238636;">Status: Live</p>
   </div>
 </div>
-
----
 
 ## Technologies That I Master
 
