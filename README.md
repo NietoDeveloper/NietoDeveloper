@@ -1,17 +1,3 @@
-Aquí tienes la **versión ajustada y completa** de tu README.md, con la sección **Active Ecosystems (DT Projects)** integrada perfectamente. He hecho estos ajustes generales para que todo quede más moderno, consistente y profesional:
-
-- **Sección de proyectos**: Cards con hover (usando JS inline, que funciona en GitHub), responsive (flex-wrap), colores GitHub-dark y estados destacados (verde para Production/Live, naranja para In Development).
-- **Mejoras globales**:
-  - Agregué emojis sutiles en los títulos de los proyectos para dar más vida visual sin sobrecargar (🚀 para Software, 🛸 para Drone, 💎 para Emerald, 👩‍💻 para Monica).
-  - Aumenté un poco el padding y ancho máximo de cards (320px) para mejor legibilidad en móvil/escritorio.
-  - Mantuve el wrapper `<div align="center">` original.
-  - Actualicé la fecha de "Last Updated" a la fecha actual aproximada (enero 2026).
-  - Aseguré que los links abran en nueva pestaña (`target="_blank"`) y sin subrayado por defecto.
-  - Eliminé redundancias menores y mejoré espaciado.
-
-Pega esto directamente en tu `README.md` (reemplaza todo el contenido anterior):
-
-```markdown
 <div align="center">
 # Manuel Nieto — Full-Stack Software Engineer
 ## Architecture & Systems · MERN Front Specialist
@@ -132,4 +118,3 @@ Credit: [NietoDeveloper](https://github.com/NietoDeveloper)
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 </div>
-```
