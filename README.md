@@ -29,7 +29,7 @@ Next.js, Node.js, MongoDB, AWS and Docker.
 | **[Software DT](https://softwaredt.vercel.app/)** | Main Hub – Core Service Architecture & Booking | **Production** |
 | **[Drone DT](https://dronedt.vercel.app/)** | Digital Twin Control Dashboard (Next.js + AWS) | **In Development** |
 | **Emerald DT** | High-Value Asset Management System | **In Development** |
-| **MonicaNadramunio** | Professional Web Platform & Portfolio | **Live** |
+| **[NurseWebSite](https://monicaandramunio.netlify.app/)** | Professional Web Platform & Portfolio | **Live** |
 
 ---
 
