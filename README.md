@@ -20,7 +20,7 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 | Project | Core Stack | Status | Purpose |
 | :--- | :--- | :--- | :--- |
 | **[Software DT](https://softwaredt.vercel.app/)** | `React` `Node` `MERN` | 🟢 **Production** | Core Architecture, Service Booking & Management Hub. |
-| **[Drone DT](https://dronedt.vercel.app/)** | `Next.js 15` `Socket.io` | 🟡 **In Construction** | Real-time Digital Twin Dashboard for Drone Telemetry & Control. |
+| **[Drone DT](https://dronedt.vercel.app/)** | `Next.js 15` `Socket.io` | 🟡 **In Construction** | E-Commerce For Drone Factory. |
 | **[NurseWebSite](https://monicaandramunio.netlify.app/)** | `React` `Vercel` | 🔵 **Live** | Professional Healthcare Platform & Specialist Portfolio. |
 | **Emerald DT** | `Next.js` `PostgreSQL` | 🟠 **In Development** | High-Value Asset Management System for Industrial Scale. |
 
