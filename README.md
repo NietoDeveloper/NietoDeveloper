@@ -1,12 +1,13 @@
 <div align="center">
 
 # Manuel Nieto — Full-Stack Software Engineer
-## GitHub Top #1 Colombia 🇨🇴 🏆 | Top #3 South & Central America
 ### Architecture & Systems · MERN · Front-Specialist
 
 I am a Full-Stack Software Engineer focused on building production-ready, scalable systems using React, Next.js, Node.js, MongoDB, AWS, and Docker.
 
 <br/>
+
+## GitHub Top #1 Colombia 🇨🇴 🏆 | Top #3 South & Central America
 
 [![Committers Top Colombia](https://user-badge.committers.top/colombia/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 [![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
