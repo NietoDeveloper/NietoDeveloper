@@ -15,7 +15,15 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 
 ---
 
-🚀 Active Ecosystems (DT Projects)ProjectCore StackStatusPurposeSoftware DTReact Node MERN🟢 ProductionCore Architecture, Service Booking & Management Hub.Software DT: Drone AdminNext.js Real-time🆕 NewDigital Twin: Real-time digital replica and industrial control center.Drone DT (Shop)Next.js 15 TS🟡 ConstructionE-Commerce and storefront for Drone Factory.NurseWebSiteReact Vercel🔵 LiveProfessional Healthcare Platform & Specialist Portfolio.Emerald DTNext.js PostgreSQL🟠 DevelopmentHigh-Value Asset Management System for Industrial Scale.
+## 🚀 Active Ecosystems (DT Projects)
+
+| Project | Core Stack | Status | Purpose |
+| :--- | :--- | :--- | :--- |
+| **[Software DT](https://softwaredt.vercel.app/)** | `React` `Node` `MERN` | 🟢 Production | Core Architecture, Service Booking & Management Hub. |
+| **[Software DT: Drone Admin](https://softwaredt.vercel.app/)** | `Next.js` `Real-time` | 🆕 New | **Digital Twin:** Real-time digital replica and industrial control center. |
+| **[Drone DT (Shop)](https://dronedt.vercel.app/)** | `Next.js 15` `TS` | 🟡 Construction | E-Commerce and storefront for Drone Factory. |
+| **[NurseWebSite](https://monicaandramunio.netlify.app/)** | `React` `Vercel` | 🔵 Live | Professional Healthcare Platform & Specialist Portfolio. |
+| **[Emerald DT](https://emeraldsdt.netlify.app/)** | `Next.js` `PostgreSQL` | 🟠 Development | High-Value Asset Management System for Industrial Scale. |
 
 ---
 
