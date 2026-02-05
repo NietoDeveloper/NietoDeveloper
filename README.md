@@ -19,9 +19,9 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 
 | Project | Core Stack | Status | Purpose |
 | :--- | :--- | :--- | :--- |
-| **[Software DT](https://softwaredt.vercel.app/)** | `React` `Node` `MERN` | 🟢 Production | Core Architecture, Service Booking & Management Hub. |
+| **[Software DT](https://softwaredt.vercel.app/)** | `React` `Node` `MERN` | 🟢 Production MVP | Core Architecture, Service Booking & Management Hub. |
 | **[Software DT: DashBoard For Drone](https://softwaredt.vercel.app/)** | `Next.js` `Node JS` `REACT` `Mongo DB` `AWS` `PostgreSQL` `Docker` `TS` | 🆕 Next Proyect | **Digital Twin:** Real-time digital replica and industrial control center. |
-| **[Drone DT (Shop)](https://dronedt.vercel.app/)** | `Next.js` `Node JS` `REACT` `Mongo DB` `AWS` `PostgreSQL` `Docker` `TS` | 🟡 Construction | Core Architecture, E-Commerce and store for Drone Factory. |
+| **[Drone DT (Shop)](https://dronedt.vercel.app/)** | `Next.js` `Node JS` `REACT` `Mongo DB` `AWS` `PostgreSQL` `Docker` `TS` | 🟡 Construction MVP | Core Architecture, E-Commerce and store for Drone Factory. |
 | **[Emerald DT](https://emeraldsdt.netlify.app/)** | `Next.js` `Node JS` `REACT` `Mongo DB` `AWS` `PostgreSQL` `Docker` `TS` | 🟠 Development | Core Architecture, High-Value Asset Management System for Industrial Scale. E-Commerce |
 | **[NurseWebSite](https://monicaandramunio.netlify.app/)** | `Vanilla JS` `Vercel` | 🔵 Live | Professional Healthcare Platform & Specialist Portfolio. |
 
