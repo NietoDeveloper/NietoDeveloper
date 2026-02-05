@@ -47,14 +47,18 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 
 ---
 
-### ⚡ Technical Identity
+## ⚡ Technical Identity
 
-* **Focus:** Low-latency dashboards, complex MERN state management, and production-ready AWS deployments.
-* **Goal:** Building world-class software that solves industrial-scale problems.
+* **Elite Performance:** Ranked **#1 Committer in Colombia** and **#4 in South & Central America** with 3 Distinction Badges.
+* **Engineering Focus:** Low-latency **Digital Twin** dashboards, complex MERN state management, and high-availability AWS/Docker deployments.
+* **Architecture:** Building scalable, production-ready systems designed for industrial-scale reliability and real-time data integrity.
+* **Vision:** Developing world-class software worthy of global industry leaders.
 
-**"Building scalable systems with 100% discipline."** *World-Class Engineering*
+<br/>
 
-**Last Updated: February 2026**
+**"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."** *World-Class Engineering*
+
+**Last Updated: February 5, 2026**
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
