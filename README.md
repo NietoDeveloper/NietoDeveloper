@@ -1,69 +1,59 @@
 <div align="center">
-# Manuel Nieto — Full-Stack Software Engineer
-## Architecture & Systems · MERN Front Specialist
-I am a Full-Stack Software Engineer specialized in MERN architecture,
-focused on building production-ready, scalable systems using React,
-Next.js, Node.js, MongoDB, AWS and Docker.
-<a href="https://user-badge.committers.top/colombia/NietoDeveloper" target="_blank">
-  <img src="https://user-badge.committers.top/colombia/NietoDeveloper.svg" height="34" alt="Committers Top Colombia">
-</a>
-<a href="https://user-badge.committers.top/colombia_public/NietoDeveloper" target="_blank">
-  <img src="https://user-badge.committers.top/colombia_public/NietoDeveloper.svg" height="34" alt="Committers Top Public">
-</a>
-<a target="_blank" href="https://user-badge.committers.top/colombia_private/NietoDeveloper">
-  <img src="https://user-badge.committers.top/colombia_private/NietoDeveloper.svg" alt="committers.top private badge">
-</a>
-## 🏆 GitHub Top # 1 - Colombia 🇨🇴
-### [committers.top/colombia](https://committers.top/colombia#NietoDeveloper)
+
+# 🏆 Manuel Nieto — Full-Stack Software Engineer
+## GitHub Top #1 Colombia 🇨🇴 | Top #4 South & Central America
+### Architecture & Systems · MERN Specialist
+
+I am a Full-Stack Software Engineer focused on building production-ready, scalable systems using React, Next.js, Node.js, MongoDB, AWS, and Docker.
+
+<br/>
+
+[![Committers Top Colombia](https://user-badge.committers.top/colombia/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
+[![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
+[![Committers Top Private](https://user-badge.committers.top/colombia_private/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
+
 ---
+
 ## 🚀 Active Ecosystems (DT Projects)
-| Project | Description | Status |
+
+| Project | Core Stack | Status | Purpose |
+| :--- | :--- | :--- | :--- |
+| **[Software DT](https://softwaredt.vercel.app/)** | `React` `Node` `MERN` | 🟢 **Production** | Core Architecture, Service Booking & Management Hub. |
+| **[Drone DT](https://dronedt.vercel.app/)** | `Next.js 15` `Socket.io` | 🟡 **In Construction** | Real-time Digital Twin Dashboard for Drone Telemetry & Control. |
+| **[NurseWebSite](https://monicaandramunio.netlify.app/)** | `React` `Vercel` | 🔵 **Live** | Professional Healthcare Platform & Specialist Portfolio. |
+| **Emerald DT** | `Next.js` `PostgreSQL` | 🟠 **In Development** | High-Value Asset Management System for Industrial Scale. |
+
+---
+
+## 🛠️ Technologies That I Master
+
+| Backend & Core | Frontend & Styling | Cloud & DevOps |
 | :--- | :--- | :--- |
-| **[Software DT](https://softwaredt.vercel.app/)** | Main Hub – Core Service Architecture & Booking | **Production** |
-| **[Drone DT](https://dronedt.vercel.app/)** | Digital Twin Control Dashboard (Next.js + AWS) – Result of Digital Twins integration, featuring a real-time data control dashboard for Drone DT | **In Construction** |
-| **Emerald DT** | High-Value Asset Management System | **In Development** |
-| **[NurseWebSite](https://monicaandramunio.netlify.app/)** | Professional Web Platform & Portfolio | **Live** |
+| <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" height="45"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" height="45"/> | <img src="https://skillicons.dev/icons?i=aws,docker,vercel,github" height="45"/> |
+| **Node, Express, Mongo, SQL** | **React, Next, TS, Tailwind** | **AWS, Docker, CI/CD, Git** |
+
 ---
-## Technologies That I Master
-<table>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" height="55"/><br/>
-React · Next · Node
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" height="55"/><br/>
-MongoDB · PostgreSQL · MySQL
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,typescript" height="55"/><br/>
-AWS · Docker · TypeScript
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=express,git,github" height="55"/><br/>
-Express · Git · GitHub
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js" height="55"/><br/>
-HTML · CSS · JavaScript
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vercel" height="55"/><br/>
-Deployment · CI/CD
-</td>
-</tr>
-</table>
----
-## ⚙️ GitHub Analytics
+
+## ⚙️ Engineering Analytics
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&border_radius=10)](https://github-readme-stats.vercel.app)
-[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=dark&border_radius=10)](https://github-readme-stats-eight-theta.vercel.app)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=dark&border_radius=10" width="48%" />
+</p>
+
+---
+
+### ⚡ Technical Identity
+* **Commit Strategy:** 50+ High-quality commits daily to maintain leadership.
+* **Focus:** Low-latency dashboards, complex MERN state management, and production-ready AWS deployments.
+* **Goal:** Building world-class software that solves industrial-scale problems.
+
+**"Building scalable systems with 100% discipline."** *World-Class Engineering*
+
+**Last Updated: February 2026**
+
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-**"Building scalable systems with 100% discipline."**
-*World-Class Engineering*
-Credit: [NietoDeveloper](https://github.com/NietoDeveloper)
-**Last Updated: 2/05/2026**
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 </div>
