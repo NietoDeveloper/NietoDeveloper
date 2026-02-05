@@ -46,7 +46,7 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 ---
 
 ### ⚡ Technical Identity
-* **Commit Strategy:** 50+ High-quality commits daily to maintain leadership.
+
 * **Focus:** Low-latency dashboards, complex MERN state management, and production-ready AWS deployments.
 * **Goal:** Building world-class software that solves industrial-scale problems.
 
