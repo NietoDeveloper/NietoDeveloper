@@ -49,7 +49,7 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 
 ## ⚡ Technical Identity
 
-* **Elite Performance:** Ranked **#1 Committer in Colombia** and **#4 in South & Central America** with 3 Distinction Badges.
+* **Elite Performance:** Ranked **#1 Committer in Colombia** and **#3 in South & Central America** with 3 Distinction Badges.
 * **Engineering Focus:** Low-latency **Digital Twin** dashboards, complex MERN state management, and high-availability AWS/Docker deployments.
 * **Architecture:** Building scalable, production-ready systems designed for industrial-scale reliability and real-time data integrity.
 * **Vision:** Developing world-class software worthy of global industry leaders.
