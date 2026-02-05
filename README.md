@@ -7,7 +7,7 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 
 <br/>
 
-## GitHub Top #1 Colombia 🇨🇴 🏆 | Top #3 South & Central America
+## GitHub Top #1 Colombia 🇨🇴 🏆 | Top #4 South & Central America
 
 [![Committers Top Colombia](https://user-badge.committers.top/colombia/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 [![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
@@ -19,10 +19,11 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 
 | Project | Core Stack | Status | Purpose |
 | :--- | :--- | :--- | :--- |
-| **[Software DT](https://softwaredt.vercel.app/)** | `React` `Node` `MERN` | 🟢 **Production** | Core Architecture, Service Booking & Management Hub. |
-| **[Drone DT](https://dronedt.vercel.app/)** | `Next.js 15` `Socket.io` | 🟡 **In Construction** | E-Commerce For Drone Factory. |
-| **[NurseWebSite](https://monicaandramunio.netlify.app/)** | `React` `Vercel` | 🔵 **Live** | Professional Healthcare Platform & Specialist Portfolio. |
-| **Emerald DT** | `Next.js` `PostgreSQL` | 🟠 **In Development** | High-Value Asset Management System for Industrial Scale. |
+| **Software DT** | React · Node MERN | 🟢 Production | Core Architecture, Service Booking & Management Hub. |
+| **Drone DT (Admin)** | Next.js · Real-time | 🆕 New | Industrial Dashboard: Real-time digital replica and control center. |
+| **Drone DT (Shop)** | Next.js 15 · TS | 🟡 Construction | E-Commerce For Drone Factory. |
+| **NurseWebSite** | React · Vercel | 🔵 Live | Professional Healthcare Platform & Specialist Portfolio. |
+| **Emerald DT** | Next.js · PostgreSQL | 🟠 Development | High-Value Asset Management System for Industrial Scale. |
 
 ---
 
