@@ -1,12 +1,9 @@
 <div align="center">
-
-# Manuel Nieto — Full-Stack Software Engineer  
+# Manuel Nieto — Full-Stack Software Engineer
 ## Architecture & Systems · MERN Front Specialist
-
-I am a Full-Stack Software Engineer specialized in MERN architecture, 
-focused on building production-ready, scalable systems using React, 
+I am a Full-Stack Software Engineer specialized in MERN architecture,
+focused on building production-ready, scalable systems using React,
 Next.js, Node.js, MongoDB, AWS and Docker.
-
 <a href="https://user-badge.committers.top/colombia/NietoDeveloper" target="_blank">
   <img src="https://user-badge.committers.top/colombia/NietoDeveloper.svg" height="34" alt="Committers Top Colombia">
 </a>
@@ -16,25 +13,18 @@ Next.js, Node.js, MongoDB, AWS and Docker.
 <a target="_blank" href="https://user-badge.committers.top/colombia_private/NietoDeveloper">
   <img src="https://user-badge.committers.top/colombia_private/NietoDeveloper.svg" alt="committers.top private badge">
 </a>
-
-## 🏆 GitHub Top # 1 - Colombia 🇨🇴  
+## 🏆 GitHub Top # 1 - Colombia 🇨🇴
 ### [committers.top/colombia](https://committers.top/colombia#NietoDeveloper)
-
 ---
-
 ## 🚀 Active Ecosystems (DT Projects)
-
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **[Software DT](https://softwaredt.vercel.app/)** | Main Hub – Core Service Architecture & Booking | **Production** |
-| **[Drone DT](https://dronedt.vercel.app/)** | Digital Twin Control Dashboard (Next.js + AWS) | **In Development** |
+| **[Drone DT](https://dronedt.vercel.app/)** | Digital Twin Control Dashboard (Next.js + AWS) – Result of Digital Twins integration, featuring a real-time data control dashboard for Drone DT | **In Construction** |
 | **Emerald DT** | High-Value Asset Management System | **In Development** |
 | **[NurseWebSite](https://monicaandramunio.netlify.app/)** | Professional Web Platform & Portfolio | **Live** |
-
 ---
-
 ## Technologies That I Master
-
 <table>
 <tr>
 <td align="center">
@@ -65,24 +55,15 @@ Deployment · CI/CD
 </td>
 </tr>
 </table>
-
 ---
-
 ## ⚙️ GitHub Analytics
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10)](https://git.io/streak-stats)
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&border_radius=10)](https://github-readme-stats.vercel.app)
 [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=dark&border_radius=10)](https://github-readme-stats-eight-theta.vercel.app)
-
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-**"Building scalable systems with 100% discipline."**  
+**"Building scalable systems with 100% discipline."**
 *World-Class Engineering*
-
-Credit: [NietoDeveloper](https://github.com/NietoDeveloper)  
-**Last Updated: 1/23/2026**
-
+Credit: [NietoDeveloper](https://github.com/NietoDeveloper)
+**Last Updated: 2/05/2026**
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 </div>
