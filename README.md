@@ -54,21 +54,21 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile" width="100%" alt="Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile" width="100%" alt="Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" width="100%" alt="Languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" width="100%" alt="Languages" />
     </td>
   </tr>
 </table>
 
 <br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=NietoDeveloper&theme=radical&no-frame=true&margin-w=4&column=7" width="90%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NietoDeveloper&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="90%" alt="Trophies"/>
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NietoDeveloper&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NietoDeveloper&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 
 </div>
 ---
