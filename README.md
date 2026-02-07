@@ -43,9 +43,6 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=2026" alt="GitHub Streak" width="85%" />
 </p>
-## ⚙️ Engineering Analytics
-
-<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="85%" />
 
