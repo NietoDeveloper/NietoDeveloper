@@ -38,9 +38,7 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 ## ⚙️ Engineering Analytics
 
 <p align="center">
-  <a href="https://github.com/NietoDeveloper">
-    <img src="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=react&border_radius=10" alt="GitHub Streak" width="100%" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=react&border_radius=10" alt="GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
