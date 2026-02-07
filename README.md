@@ -39,7 +39,12 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 ## ⚙️ Engineering Analytics
 
 ### 📊 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=2026" alt="GitHub Streak" width="85%" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=2026" alt="GitHub Streak Weekly" width="85%" />
+</p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Standard" width="85%" />
 
 <br />
 
@@ -58,12 +63,12 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 
 ## ⚡ Technical Identity
 
-* **Elite Performance**: Ranked #1 Committer in Colombia, #4 in LATAM, and **GitHub Rank S (Top 1% Worldwide)** with 3 Distinction Badges.
-* **Engineering Focus**: Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments.
-* **Architecture**: Building scalable, production-ready systems designed for industrial-scale reliability and real-time data integrity.
-* **Vision**: Developing world-class software worthy of global industry leaders.
+- **Elite Performance**: Ranked #1 Committer in Colombia, #4 in LATAM, and **GitHub Rank S (Top 1% Worldwide)** with 3 Distinction Badges.
+- **Engineering Focus**: Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments.
+- **Architecture**: Building scalable, production-ready systems designed for industrial-scale reliability and real-time data integrity.
+- **Vision**: Developing world-class software worthy of global industry leaders.
 
-> "Building scalable systems with 100% discipline. Code that scales, architecture that lasts."
+> "Building scalable systems with 100% discipline. Code that scales, architecture that lasts."  
 > **GitHub Rank S** • **World-Class Engineering** • **Top 1% Worldwide**
 
 **"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."** *World-Class Engineering*
