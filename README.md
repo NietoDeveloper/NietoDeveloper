@@ -39,7 +39,7 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 
 <div align="center">
   <a href="https://github.com/NietoDeveloper">
-    <img src="https://github-readme-streak-stats-five-sigma.vercel.app/?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="85%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NietoDeveloper&theme=react&area=true&border_radius=10" width="85%" alt="NietoDeveloper Activity Graph" />
   </a>
   
   <br />
