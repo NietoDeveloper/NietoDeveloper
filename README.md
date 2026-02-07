@@ -35,18 +35,18 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 | **Node, Express, Mongo, SQL** | **React, Next, TS, Tailwind** | **AWS, Docker, CI/CD, Git** |
 
 ---
-
 ## ⚙️ Engineering Analytics
 
 <div align="center">
   <a href="https://github.com/NietoDeveloper">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10&show_streak=true" alt="GitHub Streak" width="100%" />
+    <img src="https://metrics.lecoq.io/NietoDeveloper?base=0&plugin_lines=1&plugin_isocalendar=1&plugin_isocalendar_duration=half-year&theme=react" alt="GitHub Streak" width="85%" />
   </a>
-  <br />
   
+  <br /> <br />
+
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10" width="49%" min-width="300px" alt="NietoDeveloper Stats" />
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" width="49%" min-width="300px" alt="NietoDeveloper Languages" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10" width="48%" alt="NietoDeveloper Stats" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" width="48%" alt="NietoDeveloper Languages" />
   </div>
 </div>
 ---
