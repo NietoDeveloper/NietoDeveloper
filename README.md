@@ -36,17 +36,24 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 
 ---
 ## ⚙️ Engineering Analytics
+
 <div align="center">
   <a href="https://github.com/NietoDeveloper">
-    <img src="https://github-readme-stats.vercel.app/api/streak-stats?user=NietoDeveloper&theme=react&border_radius=10" alt="GitHub Streak" width="85%" />
+    <img src="https://github-readme-streak-stats-five-sigma.vercel.app/?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="85%" />
   </a>
   
-  <br /> <br />
+  <br />
 
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10" width="48%" alt="NietoDeveloper Stats" />
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" width="48%" alt="NietoDeveloper Languages" />
-  </div>
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10" width="100%" alt="NietoDeveloper Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" width="100%" alt="NietoDeveloper Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 ---
 
