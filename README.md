@@ -44,8 +44,8 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10" width="48%" alt="NietoDeveloper Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" width="48%" alt="NietoDeveloper Languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10" width="48%" alt="NietoDeveloper Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" width="48%" alt="NietoDeveloper Languages" />
 </p>
 ---
 
