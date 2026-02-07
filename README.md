@@ -63,10 +63,6 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 
 <img src="https://github-profile-trophy.vercel.app/?username=NietoDeveloper&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="90%" alt="Trophies"/>
 
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NietoDeveloper&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="95%" alt="Activity Graph" />
-
 </div>
 ---
 
