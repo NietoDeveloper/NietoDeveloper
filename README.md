@@ -36,11 +36,12 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 
 ---
 ## ⚙️ Engineering Analytics
-
 <div align="center">
-<a href="https://github.com/NietoDeveloper">
-    <img src="https://github-readme-streak-stats-tw.vercel.app/?user=NietoDeveloper&theme=react&border_radius=10" alt="GitHub Streak" width="85%" />
+  <a href="https://github.com/NietoDeveloper">
+    <img src="https://github-readme-stats.vercel.app/api/streak-stats?user=NietoDeveloper&theme=react&border_radius=10" alt="GitHub Streak" width="85%" />
   </a>
+  
+  <br /> <br />
 
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10" width="48%" alt="NietoDeveloper Stats" />
