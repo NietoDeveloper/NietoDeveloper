@@ -43,30 +43,32 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=2026" alt="GitHub Streak" width="85%" />
 </p>
+## ⚙️ Engineering Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="85%" />
 
 <br />
 
-### 📈 Performance Metrics
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&hide_border=true" width="100%" alt="NietoDeveloper Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile" width="100%" alt="Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=10&theme=react&border_radius=10&hide_border=true&card_width=445&exclude_repo=config-files" width="100%" alt="NietoDeveloper Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" width="100%" alt="Languages" />
     </td>
   </tr>
 </table>
 
-### 🏆 Achievement Highlights
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NietoDeveloper&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" width="90%" alt="Trophy Stats"/>
-</p>
+<br />
 
-### 📊 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NietoDeveloper&theme=react-dark&hide_border=true&area=true&custom_title=12%20Month%20Contribution%20Graph" width="95%" alt="Contribution Graph" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=NietoDeveloper&theme=radical&no-frame=true&margin-w=4&column=7" width="90%" alt="Trophies"/>
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NietoDeveloper&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 
 </div>
 ---
