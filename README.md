@@ -36,28 +36,17 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 
 ---
 
-## ⚙️ Engineering Analytics
+⚙️ Engineering Analytics
+🏆 Global Performance Rank
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile" width="85%" alt="GitHub Rank S" /> </p>
 
-### 📊 Contribution Streak
+📊 Contribution Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=2026" alt="GitHub Streak Weekly" width="85%" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=2026" alt="GitHub Streak Weekly" width="85%" />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Standard" width="85%" /> </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Standard" width="85%" />
-
-<br />
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile" width="100%" alt="Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" width="100%" alt="Languages" />
-    </td>
-  </tr>
-</table>
+🛠️ Core Technologies
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" width="85%" alt="Languages" /> </p>
 
 ---
 
