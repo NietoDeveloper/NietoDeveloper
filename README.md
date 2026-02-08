@@ -63,13 +63,13 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 
 ## ⚡ Technical Identity
 
-- **Elite Performance**: Ranked **#1 among 71,000+ developers in Colombia**, #4 in LATAM, and **GitHub Rank S (Top 1% Worldwide)**.
+- **Elite Performance**: Ranked **#1 among 71,000+ developers in Colombia**, #4 in LATAM, and **GitHub Rank S (Top 0.5% - 0.2% Worldwide)**.
 - **Engineering Focus**: Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments.
 - **Architecture**: Building scalable, production-ready systems designed for industrial-scale reliability and real-time data integrity.
 - **Vision**: Developing world-class software worthy of global industry leaders.
 
 > "Building scalable systems with 100% discipline. Code that scales, architecture that lasts."  
-> **GitHub Rank S** • **World-Class Engineering** • **Top 1% Worldwide**
+> **GitHub Rank S** • **Top 0.5% - 0.2% Worldwide**
 
 **"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."** *World-Class Engineering*
 
