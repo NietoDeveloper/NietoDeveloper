@@ -7,7 +7,8 @@ I am a Full-Stack Software Engineer focused on building production-ready, scalab
 
 <br/>
 
-## GitHub Top #1 Colombia 🇨🇴 🏆 
+## GitHub Top #1 Colombia 🇨🇴 🏆
+Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Public & Private Production Excellence
 
 [![Committers Top Colombia](https://user-badge.committers.top/colombia/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 [![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
