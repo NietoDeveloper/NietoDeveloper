@@ -10,19 +10,23 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 [![Committers Top Private](https://user-badge.committers.top/colombia_private/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 
 ---
----
 
-⚙️ Engineering Analytics
-🏆 Global Performance Rank
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile" width="85%" alt="GitHub Rank S" /> </p>
+### ⚙️ Engineering Analytics & Performance
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Rank S" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" alt="Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-📊 Contribution Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=2026" alt="GitHub Streak Weekly" width="85%" /> </p>
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Standard" width="85%" /> </p>
-
-🛠️ Core Technologies
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" width="85%" alt="Languages" /> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=2026" alt="GitHub Streak Weekly" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Standard" width="49%" />
+</p>
 
 ---
 
@@ -54,7 +58,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 **"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."** *World-Class Engineering*
 
-**Last Updated: February 10, 2026**
+**Last Updated: February 12, 2026**
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
