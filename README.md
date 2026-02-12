@@ -16,7 +16,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Rank S" width="85%"/>
 </p>
-
+**GitHub Rank S** - Top 0.2% Worldwide (~2,000 developers globally out of 100M+)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=2026" alt="GitHub Streak Weekly" width="85%" />
 </p>
