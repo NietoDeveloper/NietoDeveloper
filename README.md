@@ -1,8 +1,6 @@
 <div align="center">
 
-# Manuel Nieto — Full-Stack Software Engineer
-### Architecture & Systems 
-<br/>
+# Manuel Nieto — Full-Stack Software Engineer | Architecture & Systems 
 
 ## GitHub Top #1 Colombia 🇨🇴 🏆
 Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Public & Private Production Excellence
@@ -10,6 +8,9 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 [![Committers Top Colombia](https://user-badge.committers.top/colombia/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 [![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 [![Committers Top Private](https://user-badge.committers.top/colombia_private/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
+
+---
+---
 
 ⚙️ Engineering Analytics
 🏆 Global Performance Rank
