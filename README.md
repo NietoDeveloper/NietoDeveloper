@@ -18,9 +18,15 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=2026" alt="GitHub Streak Weekly" width="32%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Standard" width="32%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" alt="Languages" width="32%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=2026" alt="GitHub Streak Weekly" width="85%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Standard" width="85%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" alt="Languages" width="85%"/>
 </p>
 
 ---
@@ -29,11 +35,11 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 | Project | Core Stack | Status | Purpose |
 | :--- | :--- | :--- | :--- |
-| **[Software DT](https://softwaredt.vercel.app/)** | `React` `Node` `MERN` | 🟢 Production MVP | Core Architecture, Service Booking & Management Hub. |
-| **[Software DT: DashBoard For Drone](https://softwaredt.vercel.app/)** | `Next.js` `Node JS` `REACT` `Mongo DB` `AWS` `PostgreSQL` `Docker` `TS` | 🆕 Next Proyect | **Digital Twin:** Real-time digital replica and industrial control center. |
-| **[Drone DT (Shop)](https://dronedt.vercel.app/)** | `Next.js` `Node JS` `REACT` `Mongo DB` `AWS` `PostgreSQL` `Docker` `TS` | 🟡 Construction MVP | Core Architecture, E-Commerce and store for Drone Factory. |
-| **[Emerald DT](https://emeraldsdt.netlify.app/)** | `Next.js` `Node JS` `REACT` `Mongo DB` `AWS` `PostgreSQL` `Docker` `TS` | 🟠 Development | Core Architecture, High-Value Asset Management System. |
-| **[NurseWebSite](https://monicaandramunio.netlify.app/)** | `Vanilla JS` `Vercel` | 🔵 Live | Professional Healthcare Platform & Specialist Portfolio. |
+| **[Software DT](https://softwaredt.vercel.app/)** | `React` `Node` `MERN` | 🟢 Production | Core Architecture & Management Hub. |
+| **[Software DT: DashBoard](https://softwaredt.vercel.app/)** | `Next.js` `AWS` `Docker` | 🆕 Next Proyect | **Digital Twin:** Real-time industrial control center. |
+| **[Drone DT (Shop)](https://dronedt.vercel.app/)** | `Next.js` `TS` `PostgreSQL` | 🟡 Construction | E-Commerce and store for Drone Factory. |
+| **[Emerald DT](https://emeraldsdt.netlify.app/)** | `Next.js` `MongoDB` `AWS` | 🟠 Development | High-Value Asset Management System. |
+| **[NurseWebSite](https://monicaandramunio.netlify.app/)** | `Vanilla JS` `Vercel` | 🔵 Live | Healthcare Platform & Specialist Portfolio. |
 
 ---
 
