@@ -1,10 +1,7 @@
 <div align="center">
 
 # Manuel Nieto — Full-Stack Software Engineer
-### Architecture & Systems · MERN · Front-Specialist
-
-I am a Full-Stack Software Engineer focused on building production-ready, scalable systems using React, Next.js, Node.js, MongoDB, AWS, and Docker.
-
+### Architecture & Systems 
 <br/>
 
 ## GitHub Top #1 Colombia 🇨🇴 🏆
@@ -13,6 +10,21 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 [![Committers Top Colombia](https://user-badge.committers.top/colombia/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 [![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 [![Committers Top Private](https://user-badge.committers.top/colombia_private/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
+
+---
+---
+
+⚙️ Engineering Analytics
+🏆 Global Performance Rank
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile" width="85%" alt="GitHub Rank S" /> </p>
+
+📊 Contribution Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=2026" alt="GitHub Streak Weekly" width="85%" /> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Standard" width="85%" /> </p>
+
+🛠️ Core Technologies
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" width="85%" alt="Languages" /> </p>
 
 ---
 
@@ -34,22 +46,6 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 | :--- | :--- | :--- |
 | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" height="45"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" height="45"/> | <img src="https://skillicons.dev/icons?i=aws,docker,vercel,github" height="45"/> |
 | **Node, Express, Mongo, SQL** | **React, Next, TS, Tailwind** | **AWS, Docker, CI/CD, Git** |
-
----
-
-⚙️ Engineering Analytics
-🏆 Global Performance Rank
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile" width="85%" alt="GitHub Rank S" /> </p>
-
-📊 Contribution Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=2026" alt="GitHub Streak Weekly" width="85%" /> </p>
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Standard" width="85%" /> </p>
-
-🛠️ Core Technologies
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" width="85%" alt="Languages" /> </p>
-
----
 
 ## ⚡ Technical Identity
 
