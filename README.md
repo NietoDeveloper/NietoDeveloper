@@ -15,8 +15,10 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Rank S" width="85%"/>
+  <br />
+  <strong>GitHub Rank S</strong> — Top 0.2% Worldwide (Elite Developer Distinction)
 </p>
-**GitHub Rank S** - Top 0.2% Worldwide (~2,000 developers globally out of 100M+)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=2026" alt="GitHub Streak Weekly" width="85%" />
 </p>
@@ -45,11 +47,11 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 ## 🛠️ Technologies That I Master
 
-<table align="center" style="border: none;">
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center" style="border: none;"><strong>Backend & Core</strong></td>
-    <td align="center" style="border: none;"><strong>Frontend & Styling</strong></td>
-    <td align="center" style="border: none;"><strong>Cloud & DevOps</strong></td>
+    <td align="center" style="border: none; padding: 10px;"><strong>Backend & Core</strong></td>
+    <td align="center" style="border: none; padding: 10px;"><strong>Frontend & Styling</strong></td>
+    <td align="center" style="border: none; padding: 10px;"><strong>Cloud & DevOps</strong></td>
   </tr>
   <tr>
     <td align="center" style="border: none;">
@@ -70,7 +72,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 - **Elite Performance**: Ranked **#1 among 71,000+ developers in Colombia**, #4 in LATAM, and **GitHub Rank S (Top 0.2% Worldwide)**.
 - **Engineering Focus**: Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments.
-- **Architecture**: Building scalable, production-ready systems designed for industrial-scale reliability.
+- **Architecture**: Building scalable, production-ready systems designed for industrial-scale reliability and real-time data integrity.
 - **Vision**: Developing world-class software worthy of global industry leaders.
 
 **"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."** *World-Class Engineering*
