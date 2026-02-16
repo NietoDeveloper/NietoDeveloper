@@ -24,7 +24,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=tokyonight&hide_border=true&stroke=000000&background=DCDCDC00" alt="NietoDeveloper GitHub Streak" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=react&background=DCDCDC&ring=FFD700&fire=FEB60D&currStreakLabel=FFD700&include_all_commits=true&count_private=true" alt="NietoDeveloper GitHub Streak" width="85%" />
 </p>
 
 <p align="center">
