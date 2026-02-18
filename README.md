@@ -14,21 +14,17 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 ### ⚙️ Engineering Analytics & Global Performance
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Rank S" width="85%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&title_color=000000&icon_color=FFD700&text_color=000000&bg_color=DCDCDC&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Rank S" width="85%"/>
   <br />
   <strong>GitHub Rank S</strong> — Top 0.2% Worldwide (Elite Developer Distinction)
 </p>
 
 <p align="center">
-  <img src="https://streak-nieto-dt.vercel.app/api?user=NietoDeveloper&theme=dark&background=000000&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&count_private=true&include_all_commits=true" alt="NietoDeveloper GitHub Streak" width="85%" />
+  <img src="https://github-readme-streak-stats-nietodevelopers-projects.vercel.app/?user=NietoDeveloper&theme=dark&background=DCDCDC&hide_border=true&ring=FFD700&fire=FFD700&currStreakNum=000000&currStreakLabel=FFD700&sideNums=000000&sideLabels=000000&dates=000000" alt="NietoDeveloper GitHub Streak" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NietoDeveloper&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&cache_bust=2026" alt="GitHub Streak Weekly" width="85%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&theme=react&border_radius=10" alt="Languages" width="85%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=000000&icon_color=FFD700&text_color=000000&bg_color=DCDCDC&border_radius=10" alt="Languages" width="85%"/>
 </p>
 
 ---
