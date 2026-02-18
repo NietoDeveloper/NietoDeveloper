@@ -19,12 +19,12 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 ### 🔥 Development Continuity & Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&sideLabels=DCDCDC&count_private=true&v=2026_streak_force" alt="NietoDeveloper Streak" width="85%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weeks&v=2026_force_weeks" alt="NietoDeveloper Weekly Streak" width="85%" />
 </p>
 
 ### 📈 Weekly Engineering Activity
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weeks&v=2026_force_weeks" alt="NietoDeveloper Weekly Streak" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weeks&v=2026_weekly_verified" alt="NietoDeveloper Weekly Streak" width="85%" />
 </p>
 
 ### 💻 Language Distribution & Technical Mastery
