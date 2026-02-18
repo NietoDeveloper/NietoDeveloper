@@ -24,7 +24,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 ### 📈 Weekly Engineering Activity
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&icon_color=FEB60D&border_color=FFD700&count_private=true&hide=stars,follows,issues,prs,rank&custom_title=Weekly+Contribution+Flow&v=2026_weeks_final" width="85%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weeks&v=2026_force_weeks" alt="NietoDeveloper Weekly Streak" width="85%" />
 </p>
 
 ### 💻 Language Distribution & Technical Mastery
