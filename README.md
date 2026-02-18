@@ -17,9 +17,8 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 </p>
 ## 🏆 GitHub Rank S — Top 0.2% Worldwide
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&icon_color=FEB60D&border_color=FFD700&count_private=true&hide=stars,follows&custom_title=Weekly%20Development%20Consistency&v=force_weekly_2026" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&icon_color=FEB60D&border_color=FFD700&count_private=true&hide=stars,follows&custom_title=Weekly%20Development%20Consistency&v=2026_fixed_v1" width="85%" />
 </p>
 
 <p align="center">
