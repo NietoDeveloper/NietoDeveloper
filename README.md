@@ -40,6 +40,19 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 | **[Emerald DT](https://emeraldsdt.netlify.app/)** | `Next.js` `MongoDB` `AWS` | 🟠 Development | High-Value Asset Management System. |
 | **[NurseWebSite](https://monicaandramunio.netlify.app/)** | `Vanilla JS` `Vercel` | 🔵 Live | Healthcare Platform & Specialist Portfolio. |
 
+## 🚀 Active Ecosystems (DT Projects)
+
+| Project | Core Stack | Status | Purpose |
+| :--- | :--- | :--- | :--- |
+| **[Software DT](https://softwaredt.vercel.app/)** | `React` `Node` `MERN` | 🟢 **Production** | Core Architecture & Management Hub. |
+| **[Video Digital Twin](https://softwaredt.vercel.app/)** | `MERN` `AWS` | 🟠 **Development** | **Video-Based Twin:** Intelligent real-time video monitoring & processing. |
+| **[Software DT: DashBoard](https://softwaredt.vercel.app/)** | `Next.js` `AWS` `Docker` | 🆕 **MVP Mar-30** | **Digital Twin:** Real-time industrial control center. |
+| **[Drone DT (Shop)](https://dronedt.vercel.app/)** | `Next.js` `TS` `PostgreSQL` | 🟡 Construction | E-Commerce and store for Drone Factory. |
+| **[Emerald DT](https://emeraldsdt.netlify.app/)** | `Next.js` `MongoDB` `AWS` | 🟠 Development | High-Value Asset Management System. |
+| **[NurseWebSite](https://monicaandramunio.netlify.app/)** | `Vanilla JS` `Vercel` | 🔵 Live | Healthcare Platform & Specialist Portfolio. |
+
+---
+
 ---
 
 ## 🛠️ Technologies That I Master
@@ -67,7 +80,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 ## ⚡ Technical Identity
 
-- **Elite Performance**: Ranked **#1 among 80,000+ developers in Colombia**, #4 in South/Central America, and **GitHub Rank S (Top 0.2% Worldwide)**.
+- **Elite Performance**: Ranked **#1 among 80,000+ developers in Colombia**, #3 in South/Central America, and **GitHub Rank S (Top 0.2% Worldwide)**.
 - **Engineering Focus**: Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments.
 - **Architecture**: Building scalable, production-ready systems designed for industrial-scale reliability and real-time data integrity.
 - **Vision**: Developing world-class software worthy of global industry leaders.
