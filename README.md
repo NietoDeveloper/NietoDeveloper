@@ -25,6 +25,26 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&icon_color=FEB60D&border_color=FFD700&count_private=true" width="85%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FEB60D&currStreakLabel=FFD700&border=FFD700" width="85%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&border_color=FEB60D" width="85%" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/NietoDeveloper?template=classic&config.timezone=America/Bogota&base.commits=true&base.private=true&colors=primary:FFD700;secondary:FEB60D" width="85%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Streak-Activo-FFD700?style=for-the-badge&logo=github&logoColor=000000&labelColor=FEB60D" width="40%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=NietoDeveloper&theme=dark&background=000000&border=FFD700&stroke=FEB60D&ring=FFD700&fire=FFD700&currStreakLabel=FEB60D&mode=weekly" alt="GitHub Streak Weekly" width="85%" />
 </p>
 
