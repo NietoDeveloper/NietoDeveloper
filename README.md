@@ -19,17 +19,16 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-jade-seven.vercel.app/api?user=NietoDeveloper&theme=dark&background=000000&border=FFD700&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=FFFFFF&dates=FFD700" alt="NietoDeveloper GitHub Streak" width="85%" />
+  <img src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=NietoDeveloper&theme=dark&background=000000&border=FFD700&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=FFFFFF&dates=FFD700" alt="NietoDeveloper GitHub Streak" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-jade-seven.vercel.app/api?user=NietoDeveloper&theme=dark&background=000000&border=FFD700&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&mode=weekly" alt="GitHub Streak Weekly" width="85%" />
+  <img src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=NietoDeveloper&theme=dark&background=000000&border=FFD700&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&mode=weekly" alt="GitHub Streak Weekly" width="85%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000&border_color=FFD700&border_radius=10" alt="Languages" width="85%"/>
 </p>
-
 ---
 
 ## 🚀 Active Ecosystems (DT Projects)
