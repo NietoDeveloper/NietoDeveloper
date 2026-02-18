@@ -11,24 +11,22 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 ---
 
-### ⚙️ Engineering Analytics & Global Performance
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Rank S" width="85%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000&border_color=FFD700&border_radius=10&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Rank S" width="85%"/>
   <br />
   <strong>GitHub Rank S</strong> — Top 0.2% Worldwide (Elite Developer Distinction)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-nietodevelopers-projects.vercel.app/?user=NietoDeveloper&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFD700&hide_border=true" alt="NietoDeveloper GitHub Streak" width="85%" />
+  <img src="https://github-readme-streak-stats-nietodevelopers-projects.vercel.app/?user=NietoDeveloper&theme=dark&background=000000&border=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=FFFFFF&dates=FFD700" alt="NietoDeveloper GitHub Streak" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-nietodevelopers-projects.vercel.app/?user=NietoDeveloper&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&mode=weekly&hide_border=true" alt="GitHub Streak Weekly" width="85%" />
+  <img src="https://github-readme-streak-stats-nietodevelopers-projects.vercel.app/?user=NietoDeveloper&theme=dark&background=000000&border=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&mode=weekly" alt="GitHub Streak Weekly" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000&border_radius=10" alt="Languages" width="85%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000&border_color=FFD700&border_radius=10" alt="Languages" width="85%"/>
 </p>
 
 ---
