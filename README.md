@@ -13,14 +13,13 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 ⚙️ Engineering Analytics & Global Performance
 
 ## 🏆 GitHub Rank S — Top 0.2% Worldwide
-
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&include_all_commits=true&count_private=true&rank_icon=percentile&v=2026_final_v1" alt="NietoDeveloper GitHub Rank S" width="85%"/>
 </p>
 
 📊 Weekly Engineering Consistency
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&v=2026_weekly_v1" alt="NietoDeveloper Weekly Streak" width="85%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&count_private=true&v=2026_weeks_force" alt="NietoDeveloper Weekly Activity" width="85%"/>
 </p>
 
 <p align="center">
