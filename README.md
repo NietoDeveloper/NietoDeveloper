@@ -17,13 +17,11 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&v=nieto_fix_01" alt="NietoDeveloper Streak" width="85%" />
+  <img src="https://github-readme-streak-stats-jade-seven.vercel.app/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true" alt="NietoDeveloper Streak" width="85%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&icon_color=FEB60D&count_private=true&include_all_commits=true&v=nieto_fix_01" width="85%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&count_private=true&v=nieto_fix_01" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&icon_color=FEB60D&count_private=true&include_all_commits=true&custom_title=Production%20Total%20Impact" width="85%" />
 </p>
 
 
