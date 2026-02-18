@@ -17,23 +17,15 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-jade-seven.vercel.app/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FEB60D&currStreakLabel=FFD700&currStreakNum=DCDCDC&count_private=true" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&v=nieto_fix_01" alt="NietoDeveloper Streak" width="85%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&icon_color=FEB60D&count_private=true&include_all_commits=true" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&icon_color=FEB60D&count_private=true&include_all_commits=true&v=nieto_fix_01" width="85%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NietoDeveloper&theme=react-dark&bg_color=000000&color=FFD700&line=FEB60D&point=DCDCDC&area=true&hide_border=true" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&count_private=true&v=nieto_fix_01" width="85%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&count_private=true" width="85%" />
-</p>
-<p align="center">
-  <img src="https://stardis.vercel.app/api/streak?user=NietoDeveloper&theme=dark&color=FFD700" width="40%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&icon_color=FEB60D&border_color=FFD700&count_private=true&include_all_commits=true" width="85%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15" alt="Languages" width="85%"/>
