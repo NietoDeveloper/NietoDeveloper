@@ -14,21 +14,24 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 ## 🏆 GitHub Rank S — Top 0.2% Worldwide
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&include_all_commits=true&count_private=true&rank_icon=percentile&v=2026_final_v1" alt="NietoDeveloper GitHub Rank S" width="85%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&include_all_commits=true&count_private=true&rank_icon=percentile&v=2026_final_v2" alt="NietoDeveloper GitHub Rank S" width="85%"/>
 </p>
 
-📊 Weekly Engineering Consistency
+### 🔥 Development Continuity & Streaks
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&icon_color=FEB60D&border_color=FFD700&count_private=true&hide=stars,follows,issues,prs&custom_title=Weekly%20Engineering%20Activity&v=2026_weekly_final" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&sideLabels=DCDCDC&count_private=true&v=2026_streak_force" alt="NietoDeveloper Streak" width="85%" />
 </p>
 
+### 📈 Weekly Engineering Activity
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&v=2026_fix" alt="NietoDeveloper Streak" width="85%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&icon_color=FEB60D&border_color=FFD700&count_private=true&hide=stars,follows,issues,prs&v=2026_weekly_verified" width="85%" />
 </p>
 
+### 💻 Language Distribution & Technical Mastery
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&count_private=true&v=2026_fix" alt="Languages" width="85%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&count_private=true&v=2026_langs_fix" alt="Languages" width="85%"/>
 </p>
+
 ---
 
 ## 🚀 Active Ecosystems (DT Projects)
@@ -36,12 +39,11 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 | Project | Core Stack | Status | Purpose |
 | :--- | :--- | :--- | :--- |
 | **[Software DT](https://softwaredt.vercel.app/)** | `React` `Node` `MERN` | 🟢 **Production** | Core Architecture & Management Hub. |
-| **[Video Digital Twin](https://softwaredt.vercel.app/)** | `MERN` `AWS` | 🟠 **Development** | **Video-Based Twin:** Intelligent real-time video monitoring & processing. |
+| **[Video Digital Twin](https://softwaredt.vercel.app/)** | `MERN` `AWS` | 🟠 **Development** | **Video-Based Twin:** Intelligent real-time video monitoring. |
 | **[Software DT: DashBoard](https://softwaredt.vercel.app/)** | `Next.js` `AWS` `Docker` | 🆕 **MVP Mar-30** | **Digital Twin:** Real-time industrial control center. |
 | **[Drone DT (Shop)](https://dronedt.vercel.app/)** | `Next.js` `TS` `PostgreSQL` | 🟡 Construction | E-Commerce and store for Drone Factory. |
 | **[Emerald DT](https://emeraldsdt.netlify.app/)** | `Next.js` `MongoDB` `AWS` | 🟠 Development | High-Value Asset Management System. |
 | **[NurseWebSite](https://monicaandramunio.netlify.app/)** | `Vanilla JS` `Vercel` | 🔵 Live | Healthcare Platform & Specialist Portfolio. |
-
 
 ## 🛠️ Technologies That I Master
 
@@ -70,8 +72,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 - **Elite Performance**: Ranked **#1 among 80,000+ developers in Colombia**, #3 in South/Central America, and **GitHub Rank S (Top 0.2% Worldwide)**.
 - **Engineering Focus**: Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments.
-- **Architecture**: Building scalable, production-ready systems designed for industrial-scale reliability and real-time data integrity.
-- **Vision**: Developing world-class software worthy of global industry leaders.
+- **Architecture**: Building scalable, production-ready systems designed for industrial-scale reliability.
 
 > **"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."** *World-Class Engineering*
 
