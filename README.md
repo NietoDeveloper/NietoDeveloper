@@ -19,7 +19,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 📊 Weekly Engineering Consistency
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&count_private=true&v=2026_weeks_force" alt="NietoDeveloper Weekly Activity" width="85%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&icon_color=FEB60D&border_color=FFD700&count_private=true&hide=stars,follows,issues,prs&custom_title=Weekly%20Engineering%20Activity&v=2026_weekly_final" width="85%" />
 </p>
 
 <p align="center">
