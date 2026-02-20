@@ -80,7 +80,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 ## ⚡ Technical Identity
 
-- **Elite Performance**: Ranked **#1 among 80,000+ developers in Colombia**, https://committers.top/ #3 in South/Central America, and **GitHub Rank S (Top 0.2% Worldwide)**.
+- **Elite Performance**: Ranked **#1 among 80,000+ developers in Colombia**, https://committers.top/ #3 in South/Central America, and **GitHub Rank S**.
 - **Engineering Focus**: Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments.
 - **Architecture**: Building scalable, production-ready systems designed for industrial-scale reliability.
 
