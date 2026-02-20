@@ -78,17 +78,19 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 ---
 
-## ⚡ Technical Identity
+⚡ Technical Identity
+Elite Performance: Ranked #1 in Colombia among
+<img src="https://img.shields.io/badge/80,000+-Developers-FFD700?style=flat-square&labelColor=000000" vertical-align="middle" />
+via committers.top, #3 in South/Central America, and GitHub Rank S.
 
-- **Elite Performance**: Ranked **#1 among <p align="center">
-  <img src="https://img.shields.io/badge/Developers%20Ranked%20Above-80%2C000%2B-FFD700?style=for-the-badge&labelColor=000000&logoColor=FFD700" />
-</p> in Colombia**, https://committers.top/ #3 in South/Central America, and **GitHub Rank S**.
-- **Engineering Focus**: Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments.
-- **Architecture**: Building scalable, production-ready systems designed for industrial-scale reliability.
+Engineering Focus: Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments.
 
-> **"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."** *World-Class Engineering*
+Architecture: Building scalable, production-ready systems designed for industrial-scale reliability.
 
-**Last Updated: February 18, 2026**
+[!IMPORTANT]
+"Building scalable systems with 100% discipline. Code that scales, architecture that lasts." > — World-Class Engineering
+
+Last Updated: February 20, 2026
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
