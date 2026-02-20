@@ -9,6 +9,10 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 [![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 [![Committers Top Private](https://user-badge.committers.top/colombia_private/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Developers%20Ranked%20Above-80%2C000%2B-FFD700?style=for-the-badge&labelColor=000000&logoColor=FFD700" />
+</p>
+
 ---
 ⚙️ Engineering Analytics & Global Performance
 
