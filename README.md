@@ -24,8 +24,9 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDevelope
-r&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&v=2026_daily_final" alt="NietoDeveloper Daily Streak" width="85%" />
+  <a href="https://github.com/NietoDeveloper">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true" alt="NietoDeveloper Daily Streak" width="85%" />
+  </a>
 </p>
 
 ### 💻 Language Distribution & Technical Mastery
