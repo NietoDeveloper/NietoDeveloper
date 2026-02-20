@@ -21,10 +21,6 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 ### 🔥 Development Continuity & Streaks
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weeks&v=2026_force_weeks" alt="NietoDeveloper Weekly Streak" width="85%" />
-</p>
-
-<p align="center">
   <a href="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weeks">
     <img src="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weeks" alt="NietoDeveloper Weekly Streak" width="85%" />
   </a>
