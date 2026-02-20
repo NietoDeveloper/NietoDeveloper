@@ -31,6 +31,12 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/NietoDeveloper?tab=stars">
+    <img src="https://img.shields.io/github/stars/NietoDeveloper?style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" alt="Total Stars" />
+  </a>
+</p>
+
 ### 💻 Language Distribution & Technical Mastery
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&count_private=true&v=2026_langs_fix" alt="Languages" width="85%"/>
