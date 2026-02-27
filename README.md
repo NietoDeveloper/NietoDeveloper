@@ -21,13 +21,14 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 ### 🔥 Development Continuity & Streaks
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weeks">
-    <img src="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weeks" alt="NietoDeveloper Weekly Streak" width="85%" />
-  </a>
-</p>
-<p align="center">
   <a href="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true">
     <img src="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true" alt="NietoDeveloper Daily Streak" width="85%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weekly">
+    <img src="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weekly" alt="NietoDeveloper Weekly Streak" width="85%" />
   </a>
 </p>
 
