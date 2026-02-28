@@ -53,7 +53,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 | <a href="https://dronedt.vercel.app/" target="_blank">Drone DT</a> | `MERN` `TS` `Docker` `AWS` | 🟠 Development | E-Commerce and store for Drone Factory. |
 | <a href="https://dronedt.vercel.app/" target="_blank">Drone DT: DashBoard</a> | `MERN` `TS` `AWS` `Docker` | 🟠 **Development** | **DashBoard** Management System For E-Commerce |
 | <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT</a> | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | High-Value Asset Management System. |
-| <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT: DashBoard</a> | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | Management System For E-Commerce |
+| <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT: DashBoard</a> | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | **DashBoard** Management System For E-Commerce |
 | <a href="https://dtv.vercel.app/" target="_blank">Video Digital Twin APP</a> | `MERN` `TS` `Docker` `AWS` | 🟠 **Development** | **VideoTwin:** Real-time industrial real-time video monitoring. |
 | <a href="https://monicaandramunio.netlify.app/" target="_blank">NurseWebSite</a> | `Vanilla JS` | 🔵 Live | Healthcare Platform & Specialist Portfolio. |
 
