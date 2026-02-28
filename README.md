@@ -9,7 +9,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 [![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 [![Committers Top Private](https://user-badge.committers.top/colombia_private/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 
-**⚙️  Top #3 Sudamérica / Centroamérica** 🌍 (committers.top)
+**  Top #3 Sudamérica / Centroamérica** 🌍 (committers.top)
 ---
 
 ## 🏆 GitHub Rank S github-readme-stats
@@ -23,7 +23,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
   </a>
 </p>
 
-### 🔥 Development Continuity & Streaks
+### 🔥 Development Continuity & Streaks  ⚙️
 
 <p align="center">
   <a href="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true">
