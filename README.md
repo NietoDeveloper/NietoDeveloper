@@ -53,7 +53,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 | **[Drone DT](https://dronedt.vercel.app/)** | `MERN` `TS` `Docker` `AWS` | 🟠 Development | E-Commerce and store for Drone Factory. |
 | **[Emerald DT](https://emeralddt.vercel.app/)** | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | High-Value Asset Management System. |
 | **[Drone DT: DashBoard](https://.vercel.app/)** | `MERN` `TS` `AWS` `Docker` | 🟠 **Development** | **Digital Twin:**  control center. |
-| **[Video Digital Twin APP](https://dtv.vercel.app/)** | `MERN` `Docker` `AWS` | 🟠 **Development** | **VideoTwin:** Real-time industrial real-time video monitoring. |
+| **[Video Digital Twin APP](https://dtv.vercel.app/)** | `MERN` `TS` `Docker` `AWS` | 🟠 **Development** | **VideoTwin:** Real-time industrial real-time video monitoring. |
 | **[NurseWebSite](https://monicaandramunio.netlify.app/)** | `Vanilla JS` | 🔵 Live | Healthcare Platform & Specialist Portfolio. |
 
 ## 🛠️ Technologies That I Master
