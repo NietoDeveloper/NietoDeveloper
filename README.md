@@ -9,9 +9,8 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 [![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 [![Committers Top Private](https://user-badge.committers.top/colombia_private/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 
-**#3 en Sudamérica / Centroamérica** 🌍 (committers.top)
+**⚙️  Top #3 Sudamérica / Centroamérica** 🌍 (committers.top)
 ---
-⚙️ Engineering Analytics & Global Performance
 
 ## 🏆 GitHub Rank S 
 ### github-readme-stats
