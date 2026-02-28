@@ -80,7 +80,7 @@ Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Public & 
 * **Engineering Focus**: Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments.
 * **Architecture**: Building scalable, production-ready systems designed for industrial-scale reliability.
 
-> **"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."** > *— World-Class Engineering*
+> **"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."** > 
 
 **Last Updated: February 28, 2026**
 
