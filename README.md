@@ -10,7 +10,6 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 [![Committers Top Private](https://user-badge.committers.top/colombia_private/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 
 ## Top #3 Sudamérica / Centroamérica 🌍 (committers.top)
----
 
 ## 🏆 GitHub Rank S github-readme-stats
 
@@ -41,8 +40,6 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&count_private=true&v=2026_langs_fix" alt="Languages" width="85%"/>
 </p>
-
----
 
 ## 🚀 Active Ecosystems (DT Projects)
 
@@ -76,8 +73,6 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
     </td>
   </tr>
 </table>
-
----
 
 ## ⚡ Technical Identity
 
