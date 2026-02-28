@@ -52,9 +52,9 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 | **[Software DT](https://softwaredt.vercel.app/)** | `MERN` `Docker` `AWS` | 🟢 **Production** | Software Company | Core Architecture & Management Hub |
 | **[Drone DT (Shop)](https://dronedt.vercel.app/)** | `MERN` `TS` `Docker` `AWS` | 🟠 Development | E-Commerce and store for Drone Factory. |
 | **[Emerald DT](https://emeralddt.vercel.app/)** | `Next.js` `MongoDB` `AWS` | 🟡 Construction | High-Value Asset Management System. |
-| **[Software DT: DashBoard](https://.vercel.app/)** | `Next.js` `AWS` `Docker` | 🆕 **MVP Mar-30** | **Digital Twin:** Real-time industrial control center. |
-| **[Video Digital Twin](https://softwaredt.vercel.app/)** | `MERN` `AWS` | 🟠 **Development** | **Video-Based Twin:** Intelligent real-time video monitoring. |
-| **[NurseWebSite](https://monicaandramunio.netlify.app/)** | `Vanilla JS` `Vercel` | 🔵 Live | Healthcare Platform & Specialist Portfolio. |
+| **[Software DT: DashBoard](https://.vercel.app/)** | `Next.js` `AWS` `Docker` | 🆕 **MVP Mar-30** | **Digital Twin:**  control center. |
+| **[Video Digital Twin](https://dtv.vercel.app/)** | `MERN` `Docker` `AWS` | 🟠 **Development** | **VideoTwin:** Real-time industrial real-time video monitoring. |
+| **[NurseWebSite](https://monicaandramunio.netlify.app/)** | `Vanilla JS` | 🔵 Live | Healthcare Platform & Specialist Portfolio. |
 
 ## 🛠️ Technologies That I Master
 
