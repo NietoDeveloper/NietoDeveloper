@@ -3,7 +3,7 @@
 # Manuel Nieto — Full-Stack Software Engineer | Architecture & Systems 
 
 ## GitHub Top #1 Colombia 🇨🇴 🏆
-Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Public & Private Production Excellence
+Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Public & Private Production Excellence
 
 [![Committers Top Colombia](https://user-badge.committers.top/colombia/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 [![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
@@ -76,7 +76,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 ## ⚡ Technical Identity
 
-* **Elite Performance**: Ranked **#1 in Colombia** among <img src="https://img.shields.io/badge/80,000+-Developers-FFD700?style=flat-square&labelColor=000000" align="center" /> via [committers.top](https://committers.top/colombia), **#3 in South/Central America**, and **GitHub Rank S**.
+* **Performance**: Ranked **#1 in Colombia** among <img src="https://img.shields.io/badge/80,000+-Developers-FFD700?style=flat-square&labelColor=000000" align="center" /> via [committers.top](https://committers.top/colombia), **#3 in South/Central America**, and **GitHub Rank S**.
 * **Engineering Focus**: Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments.
 * **Architecture**: Building scalable, production-ready systems designed for industrial-scale reliability.
 
