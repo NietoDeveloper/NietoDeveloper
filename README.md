@@ -9,6 +9,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 [![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 [![Committers Top Private](https://user-badge.committers.top/colombia_private/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 
+**#3 en Sudamérica / Centroamérica** 🌍 (committers.top)
 ---
 ⚙️ Engineering Analytics & Global Performance
 
@@ -16,6 +17,11 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 ### github-readme-stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&include_all_commits=true&count_private=true&rank_icon=percentile&v=2026_final_v2" alt="NietoDeveloper GitHub Rank S" width="85%"/>
+</p>
+<p align="center">
+  <a href="https://github.com/NietoDeveloper?tab=stars">
+    <img src="https://img.shields.io/github/stars/NietoDeveloper?style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" alt="Total Stars" />
+  </a>
 </p>
 
 ### 🔥 Development Continuity & Streaks
@@ -29,12 +35,6 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 <p align="center">
   <a href="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weekly">
     <img src="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weekly" alt="NietoDeveloper Weekly Streak" width="85%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NietoDeveloper?tab=stars">
-    <img src="https://img.shields.io/github/stars/NietoDeveloper?style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" alt="Total Stars" />
   </a>
 </p>
 
@@ -88,7 +88,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 > **"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."** > *— World-Class Engineering*
 
-**Last Updated: February 20, 2026**
+**Last Updated: February 28, 2026**
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
