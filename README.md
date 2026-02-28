@@ -48,14 +48,14 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 ## 🚀 Active Ecosystems (DT Projects)
 
 | Project | Core Stack | Status | Purpose |
-| :--- | :--- | :--- | :--- |
-| **[Software DT](https://softwaredt.vercel.app/)** | `MERN` `Docker` `AWS` | 🟢 **Production** | Software Company | Core Architecture & Management Hub |
-| **[Drone DT](https://dronedt.vercel.app/)** | `MERN` `TS` `Docker` `AWS` | 🟠 Development | E-Commerce and store for Drone Factory. |
-| **[Drone DT: DashBoard](https://.vercel.app/)** | `MERN` `TS` `AWS` `Docker` | 🟠 **Development** | **Digital Twin:**  control center. |
-| **[Emerald DT](https://emeralddt.vercel.app/)** | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | High-Value Asset Management System. |
-| **[Emerald DT: DashBoard](https://emeralddt.vercel.app/)** | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | High-Value Asset Management System. |
-| **[Video Digital Twin APP](https://dtv.vercel.app/)** | `MERN` `TS` `Docker` `AWS` | 🟠 **Development** | **VideoTwin:** Real-time industrial real-time video monitoring. |
-| **[NurseWebSite](https://monicaandramunio.netlify.app/)** | `Vanilla JS` | 🔵 Live | Healthcare Platform & Specialist Portfolio. |
+|---------|------------|--------|---------|
+| <a href="https://softwaredt.vercel.app/" target="_blank">Software DT</a> | `MERN` `Docker` `AWS` | 🟢 **Production** | Core Architecture & Management Hub (Software Company) |
+| <a href="https://dronedt.vercel.app/" target="_blank">Drone DT</a> | `MERN` `TS` `Docker` `AWS` | 🟠 Development | E-Commerce and store for Drone Factory. |
+| <a href="https://dronedt.vercel.app/" target="_blank">Drone DT: DashBoard</a> | `MERN` `TS` `AWS` `Docker` | 🟠 **Development** | **Digital Twin:** control center. |
+| <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT</a> | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | High-Value Asset Management System. |
+| <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT: DashBoard</a> | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | High-Value Asset Management System. |
+| <a href="https://dtv.vercel.app/" target="_blank">Video Digital Twin APP</a> | `MERN` `TS` `Docker` `AWS` | 🟠 **Development** | **VideoTwin:** Real-time industrial real-time video monitoring. |
+| <a href="https://monicaandramunio.netlify.app/" target="_blank">NurseWebSite</a> | `Vanilla JS` | 🔵 Live | Healthcare Platform & Specialist Portfolio. |
 
 ## 🛠️ Technologies That I Master
 
