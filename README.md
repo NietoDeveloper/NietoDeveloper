@@ -49,7 +49,7 @@ Elite Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Pub
 
 | Project | Core Stack | Status | Purpose |
 |---------|------------|--------|---------|
-| <a href="https://softwaredt.vercel.app/" target="_blank">Software DT</a> | `MERN` `Docker` `AWS` | 🟢 **Production** | Core Architecture & Management Hub (Software Company) |
+| <a href="https://softwaredt.vercel.app/" target="_blank">Software DT</a> | `MongoDB` `React` `Docker` `AWS` | 🟢 **Production** | Core Architecture & Management Hub (Software Company) |
 | <a href="https://dronedt.vercel.app/" target="_blank">Drone DT</a> | `MERN` `TS` `Docker` `AWS` | 🟠 Development | E-Commerce and store for Drone Factory. |
 | <a href="https://dronedt.vercel.app/" target="_blank">Drone DT: DashBoard</a> | `MERN` `TS` `AWS` `Docker` | 🟠 **Development** | **Digital Twin:** control center. |
 | <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT</a> | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | High-Value Asset Management System. |
