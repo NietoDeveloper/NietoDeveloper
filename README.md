@@ -73,7 +73,7 @@
 
 * **Elite Performance**: Ranked **#1 in Colombia** among <img src="https://img.shields.io/badge/80,000+-Developers-FFD700?style=flat-square&labelColor=000000" align="center" /> and **GitHub Rank S+** 
 * **Engineering Focus**: Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments 
-* **Architecture**: Building scalable systems
+* **Architecture**: "High-availability double-cluster architecture engineered for maximum scalability and industrial-grade security."
 
 > **"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."**
 
