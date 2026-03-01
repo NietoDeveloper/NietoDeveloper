@@ -14,6 +14,10 @@ Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Public & 
 ## 🏆 GitHub Rank S github-readme-stats
 
 <p align="center">
+  <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b_ELITE-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" alt="Rank S Plus" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&include_all_commits=true&count_private=true&rank_icon=percentile&v=2026_final_v2" alt="NietoDeveloper GitHub Rank S" width="85%"/>
 </p>
 <p align="center">
@@ -24,15 +28,6 @@ Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Public & 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=tokyonight&fire=FFD700&currStreakNum=FFD700&sideNums=DCDCDC&sideLabels=DCDCDC&dates=FEB60D&bg_color=000000&border=FFD700&stroke=FFD700&ring=FEB60D&hidorder_radius=15" alt="NietoDeveloper Streak S+" width="85%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&include_all_commits=true&count_private=true&rank_icon=github&custom_title=NIETO%20LABORATORY%20COMMANDER&v=2026_S_PLUS" alt="NietoDeveloper Rank S+" width="85%"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b_ELITE-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" alt="Rank S Plus" />
-
 </p>
 
 ### 🔥 Development Continuity & Streaks  ⚙️
