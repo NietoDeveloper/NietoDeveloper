@@ -46,13 +46,13 @@
 
 | Project | Core Stack | Status | Purpose |
 |---------|------------|--------|---------|
-| <a href="https://softwaredt.vercel.app/" target="_blank">Software DT</a> | `MongoDB` `React` `Docker` `AWS` | 🟢 **Production** | Core Architecture & Management Hub [cite: 2026-02-05] |
-| <a href="https://dronedt.vercel.app/" target="_blank">Drone DT</a> | `MERN` `TS` `Docker` `AWS` | 🟠 Development | E-Commerce and store for Drone Factory [cite: 2026-02-05] |
-| <a href="https://dronedt.vercel.app/" target="_blank">Drone DT: DashBoard</a> | `MERN` `TS` `AWS` `Docker` | 🟠 **Development** | Management System For E-Commerce [cite: 2026-02-05] |
-| <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT</a> | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | High-Value Asset Management System [cite: 2026-02-05] |
-| <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT: DashBoard</a> | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | Management System For E-Commerce [cite: 2026-02-05] |
-| <a href="https://dtv.vercel.app/" target="_blank">Video Digital Twin APP</a> | `MERN` `TS` `Docker` `AWS` | 🟠 **Development** | Real-time industrial video monitoring [cite: 2026-02-05] |
-| <a href="https://monicaandramunio.netlify.app/" target="_blank">NurseWebSite</a> | `Vanilla JS` | 🔵 Live | Healthcare Platform & Portfolio [cite: 2026-02-05] |
+| <a href="https://softwaredt.vercel.app/" target="_blank">Software DT</a> | `MongoDB` `React` `Docker` `AWS` | 🟢 **Production** | Core Architecture & Management Hub |
+| <a href="https://dronedt.vercel.app/" target="_blank">Drone DT</a> | `MERN` `TS` `Docker` `AWS` | 🟠 Development | E-Commerce and store for Drone Factory |
+| <a href="https://dronedt.vercel.app/" target="_blank">Drone DT: DashBoard</a> | `MERN` `TS` `AWS` `Docker` | 🟠 **Development** | Management System For E-Commerce |
+| <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT</a> | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | High-Value Asset Management System |
+| <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT: DashBoard</a> | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | Management System For E-Commerce |
+| <a href="https://dtv.vercel.app/" target="_blank">Video Digital Twin APP</a> | `MERN` `TS` `Docker` `AWS` | 🟠 **Development** | Real-time industrial video monitoring |
+| <a href="https://monicaandramunio.netlify.app/" target="_blank">NurseWebSite</a> | `Vanilla JS` | 🔵 Live | Healthcare Platform & Portfolio |
 
 ## 🛠️ Technologies That I Master
 
