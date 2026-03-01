@@ -1,6 +1,6 @@
 <div align="center">
 
-# Manuel Nieto — Full-Stack Software Engineer | Architecture & Systems | Cloud & Digital Twin Specialist 🚀
+# Manuel Nieto — Software Engineer | Full Stack  |  Architecture & Systems  | Cloud & Digital Twins Specialist 🚀
 
 ## GitHub Top #1 Colombia 🇨🇴 🏆
 ### Technical Performance: Triple Distinction for Public & Private Excellence
