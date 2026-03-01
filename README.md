@@ -11,15 +11,18 @@ Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Public & 
 
 ## Top #3 Sudamérica / Centroamérica 🌍 (committers.top)
 
-## 🏆 GitHub Rank S github-readme-stats
+## 🏆 GitHub Rank S+ github-readme-stats
 
 <p align="center">
   <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b_ELITE-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" alt="Rank S Plus" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&include_all_commits=true&count_private=true&rank_icon=percentile&v=2026_final_v2" alt="NietoDeveloper GitHub Rank S" width="85%"/>
+  <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b_ELITE-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" 
+       alt="Rank S Plus Elite" 
+       height="120" />
 </p>
+
 <p align="center">
   <a href="https://github.com/NietoDeveloper?tab=stars">
     <img src="https://img.shields.io/github/stars/NietoDeveloper?style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" alt="Total Stars" />
