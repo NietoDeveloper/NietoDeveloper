@@ -13,6 +13,8 @@
 
 <br />
 
+### 🔥 Development Continuity & Streaks (S+ Cycle) ⚙️
+
 <p align="center">
   <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" 
        alt="Rank S Plus Notorio" 
@@ -24,10 +26,6 @@
     <img src="https://img.shields.io/github/stars/NietoDeveloper?style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" alt="Total Stars" />
   </a>
 </p>
-
----
-
-### 🔥 Development Continuity & Streaks (S+ Cycle) ⚙️
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true" alt="Daily Streak" width="85%" />
