@@ -32,7 +32,7 @@ Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Public & 
 
 <p align="center">
   <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b_ELITE-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" alt="Rank S Plus" />
-  <img src="https://img.shields.io/badge/EMERALD_DT-SECURE_CLUSTER-00FF41?style=for-the-badge&labelColor=000000&logo=amazonaws&logoColor=00FF41" alt="Emerald DT Security" />
+
 </p>
 
 ### 🔥 Development Continuity & Streaks  ⚙️
