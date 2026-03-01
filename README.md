@@ -18,20 +18,12 @@ Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Public & 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&langs_count=8&hide=css,html&v=2026_S_PLUS_ELITE" alt="NietoDeveloper Top Languages" width="85%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&include_all_commits=true&count_private=true&rank_icon=percentile&v=2026_final_v2" alt="NietoDeveloper GitHub Rank S" width="85%"/>
 </p>
 <p align="center">
   <a href="https://github.com/NietoDeveloper?tab=stars">
     <img src="https://img.shields.io/github/stars/NietoDeveloper?style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" alt="Total Stars" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=tokyonight&fire=FFD700&currStreakNum=FFD700&sideNums=DCDCDC&sideLabels=DCDCDC&dates=FEB60D&bg_color=000000&border=FFD700&stroke=FFD700&ring=FEB60D&hidorder_radius=15" alt="NietoDeveloper Streak S+" width="85%"/>
 </p>
 
 ### 🔥 Development Continuity & Streaks  ⚙️
