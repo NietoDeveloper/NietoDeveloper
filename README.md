@@ -18,6 +18,10 @@ Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Public & 
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&langs_count=8&hide=css,html&v=2026_S_PLUS_ELITE" alt="NietoDeveloper Top Languages" width="85%"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NietoDeveloper&show_icons=true&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&include_all_commits=true&count_private=true&rank_icon=percentile&v=2026_final_v2" alt="NietoDeveloper GitHub Rank S" width="85%"/>
 </p>
 <p align="center">
