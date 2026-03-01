@@ -22,6 +22,19 @@ Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Public & 
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=tokyonight&fire=FFD700&currStreakNum=FFD700&sideNums=DCDCDC&sideLabels=DCDCDC&dates=FEB60D&bg_color=000000&border=FFD700&stroke=FFD700&ring=FEB60D&hide_border=false&border_radius=15" alt="NietoDeveloper Streak S+" width="85%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NietoDeveloper">
+    <img src="https://img.shields.io/badge/RANK_S%2b-COLOMBIA_%231-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" alt="GitHub Top Colombia" />
+  </a>
+  <a href="https://github.com/NietoDeveloper">
+    <img src="https://img.shields.io/badge/NIETO_LABORATORY-DAY_ZERO-FEB60D?style=for-the-badge&labelColor=000000&logo=docker&logoColor=FEB60D" alt="Nieto Laboratory Status" />
+  </a>
+</p>
+
 ### 🔥 Development Continuity & Streaks  ⚙️
 
 <p align="center">
