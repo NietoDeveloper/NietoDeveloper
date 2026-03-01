@@ -14,13 +14,9 @@ Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Public & 
 ## 🏆 GitHub Rank S+ github-readme-stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b_ELITE-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" alt="Rank S Plus" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b_ELITE-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" 
-       alt="Rank S Plus Elite" 
-       height="120" />
+  <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" 
+       alt="Rank S Plus Notorio" 
+       height="150" />
 </p>
 
 <p align="center">
