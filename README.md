@@ -23,7 +23,7 @@ Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Public & 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=tokyonight&fire=FFD700&currStreakNum=FFD700&sideNums=DCDCDC&sideLabels=DCDCDC&dates=FEB60D&bg_color=000000&border=FFD700&stroke=FFD700&ring=FEB60D&hide_border=false&border_radius=15" alt="NietoDeveloper Streak S+" width="85%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NietoDeveloper&theme=tokyonight&fire=FFD700&currStreakNum=FFD700&sideNums=DCDCDC&sideLabels=DCDCDC&dates=FEB60D&bg_color=000000&border=FFD700&stroke=FFD700&ring=FEB60D&hidorder_radius=15" alt="NietoDeveloper Streak S+" width="85%"/>
 </p>
 
 <p align="center">
