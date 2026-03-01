@@ -27,12 +27,12 @@ Technical Performance: Top 1 Colombia Ranking | Triple Distinction for Public & 
 </p>
 
 <p align="center">
-  <a href="https://github.com/NietoDeveloper">
-    <img src="https://img.shields.io/badge/RANK_S%2b-COLOMBIA_%231-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" alt="GitHub Top Colombia" />
-  </a>
-  <a href="https://github.com/NietoDeveloper">
-    <img src="https://img.shields.io/badge/NIETO_LABORATORY-DAY_ZERO-FEB60D?style=for-the-badge&labelColor=000000&logo=docker&logoColor=FEB60D" alt="Nieto Laboratory Status" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&include_all_commits=true&count_private=true&rank_icon=github&custom_title=NIETO%20LABORATORY%20COMMANDER&v=2026_S_PLUS" alt="NietoDeveloper Rank S+" width="85%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b_ELITE-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" alt="Rank S Plus" />
+  <img src="https://img.shields.io/badge/EMERALD_DT-SECURE_CLUSTER-00FF41?style=for-the-badge&labelColor=000000&logo=amazonaws&logoColor=00FF41" alt="Emerald DT Security" />
 </p>
 
 ### 🔥 Development Continuity & Streaks  ⚙️
