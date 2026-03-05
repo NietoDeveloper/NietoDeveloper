@@ -11,8 +11,6 @@
 
 ## 🌎 Top #3 Sudamérica / Centroamérica (committers.top)
 
-<br />
-
 ### 🔥 Development Continuity & Streaks (S+ Cycle) ⚙️
 
 <p align="center">
