@@ -24,6 +24,11 @@
     <img src="https://img.shields.io/github/stars/NietoDeveloper?style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" alt="Total Stars" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/NietoDeveloper?tab=stars">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NietoDeveloper&repo=Emerald-DT&theme=tokyonight&border_color=FFD700&show_owner=true" alt="Starred Repo" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true" alt="Daily Streak" width="85%" />
