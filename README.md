@@ -26,14 +26,15 @@
 </p>
 <p align="center">
   <a href="https://github.com/NietoDeveloper?tab=stars">
-    <img src="https://flat.badgen.net/github/stars/NietoDeveloper?icon=github&color=e3b341&labelColor=000&label=TOTAL%20STARS" alt="Total Stars" />
+    <img src="https://img.shields.io/static/v1?label=STARS&message=CL&color=FFD700&labelColor=000000&style=for-the-badge&logo=github&logoColor=FFD700" alt="Total Stars" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/NietoDeveloper?tab=stars">
-    <img src="https://badgen.net/github/stars/NietoDeveloper?icon=github&color=FFD700&labelColor=000&label=STARS" alt="Stars" />
+  <a href="https://github.com/NietoDeveloper">
+    <img src="https://raster.shields.io/badge/GITHUB%20STARS-TOP%201-gold?style=for-the-badge&labelColor=black&logo=github" alt="Stars" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true" alt="Daily Streak" width="85%" />
