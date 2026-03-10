@@ -25,13 +25,13 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/NietoDeveloper?tab=stars">
-    <img src="https://badgen.net/github/stars/NietoDeveloper?icon=github&color=e3b341&labelColor=000&label=STARS&cache=600" alt="GitHub Stars" />
+  <a href="https://github.com/NietoDeveloper">
+    <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=tokyonight&custom_title=Nieto%20Laboratory%20Stats&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=ffffff" alt="Nieto Laboratory Stats" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/NietoDeveloper?tab=stars">
-    <img src="https://img.badgesize.io/https://api.github.com/users/NietoDeveloper?label=STARS&color=FFD700" alt="Stars" />
+  <a href="https://github.com/NietoDeveloper">
+    <img src="https://img.shields.io/github/stars/NietoDeveloper?style=for-the-badge&logo=github&color=gold&labelColor=black" alt="GitHub Stars" />
   </a>
 </p>
 
