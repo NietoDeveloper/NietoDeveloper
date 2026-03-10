@@ -24,16 +24,6 @@
     <img src="https://img.shields.io/github/stars/NietoDeveloper?style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" alt="Total Stars" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/NietoDeveloper">
-    <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=tokyonight&custom_title=Nieto%20Laboratory%20Stats&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=ffffff" alt="Nieto Laboratory Stats" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/NietoDeveloper">
-    <img src="https://img.shields.io/github/stars/NietoDeveloper?style=for-the-badge&logo=github&color=gold&labelColor=black" alt="GitHub Stars" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true" alt="Daily Streak" width="85%" />
