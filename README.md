@@ -26,7 +26,12 @@
 </p>
 <p align="center">
   <a href="https://github.com/NietoDeveloper?tab=stars">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NietoDeveloper&repo=Emerald-DT&theme=tokyonight&border_color=FFD700&show_owner=true" alt="Starred Repo" />
+    <img src="https://flat.badgen.net/github/stars/NietoDeveloper?icon=github&color=e3b341&labelColor=000&label=TOTAL%20STARS" alt="Total Stars" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/NietoDeveloper?tab=stars">
+    <img src="https://badgen.net/github/stars/NietoDeveloper?icon=github&color=FFD700&labelColor=000&label=STARS" alt="Stars" />
   </a>
 </p>
 
