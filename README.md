@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&sideNums=DCDCDC&sideLabels=FEB60D&dates=DCDCDC&count_private=true" alt="GitHub Streak" width="85%" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&sideNums=DCDCDC&sideLabels=FEB60D&dates=DCDCDC&count_private=true&cache_bust=softwaredt" alt="GitHub Streak" width="85%" />
 </p>
 
 <p align="center">
