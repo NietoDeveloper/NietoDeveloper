@@ -2,7 +2,6 @@
 
 # Manuel Nieto — Software Engineer | Full Stack  |  Architecture & Systems  | Cloud & Digital Twins Specialist 🚀
 
-## GitHub Top #1 Colombia 🇨🇴 🏆
 ### Technical Performance: Triple Distinction for Public & Private Excellence
 
 [![Committers Top Colombia](https://user-badge.committers.top/colombia/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
