@@ -45,7 +45,7 @@
 | <a href="https://dronedt.vercel.app/" target="_blank">Drone DT</a> | `MERN` `TS` `Docker` `AWS` | 🟠 Development | E-Commerce and store for Drone Factory |
 | <a href="https://dronedt.vercel.app/" target="_blank">Drone DT: DashBoard</a> | `MERN` `TS` `AWS` `Docker` | 🟠 **Development** | Management System For E-Commerce |
 | <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT</a> | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | High-Value Asset Management System |
-| <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT: DashBoard</a> | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | Management System For E-Commerce |
+| <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT: DashBoard</a> | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | Management System For Assets |
 | <a href="https://dtv.vercel.app/" target="_blank">Video Digital Twin APP</a> | `MERN` `TS` `Docker` `AWS` | 🟠 **Development** | Real-time industrial video monitoring |
 | <a href="https://monicaandramunio.netlify.app/" target="_blank">NurseWebSite</a> | `Vanilla JS` | 🔵 Live | Healthcare Platform & Portfolio |
 
@@ -66,13 +66,23 @@
 
 ## ⚡ Technical Identity
 
-* **Performance**: Ranked **#1 in Colombia** committers.top among <img src="https://img.shields.io/badge/80,000+-Developers-FFD700?style=flat-square&labelColor=000000" align="center" /> and **GitHub Rank S+** 
-* **Engineering Focus**: Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments 
-* **Architecture**: "High-availability double-cluster architecture engineered for maximum scalability and industrial-grade security."
+*   **<span style="color: #FFD700;">Performance:</span>** Ranked #1 in Colombia committers.top among <img src="https://img.shields.io/badge/80,000+-Developers-FFD700?style=flat-square&labelColor=000000" align="center" /> and GitHub Rank S+
+
+*   **<span style="color: #FFD700;">Engineering Focus:</span>** Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments
+
+*   **<span style="color: #FFD700;">Architecture:</span>** "High-availability double-cluster architecture engineered for maximum scalability and industrial-grade security."
+
+*   **<span style="color: #FFD700;">E-Commerce Dashboard:</span>** Control panel for managing sales, inventory, users, employees, and messages — built for modern industrial-scale e-commerce operations, secure and scalable.
+
+*   **<span style="color: #FFD700;">Industrial E-Commerce Platform:</span>** Modern, scalable, and secure e-commerce system for product sales, inventory management, users, and employees.
+
+*   **<span style="color: #FFD700;">Digital Twin Video App:</span>** Application for processing a digital twin from video input — currently under development.
+
+<br />
 
 > **"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."**
 
-**Last Updated: Mayo 8, 2026** 
+**Last Updated: Mayo 11, 2026** 
 
 ![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
