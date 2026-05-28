@@ -43,7 +43,7 @@
 |---------|------------|--------|---------|
 | <a href="https://softwaredt.vercel.app/" target="_blank">Software DT</a> | `MongoDB` `React` `Docker` `AWS` | 🟢 **Production** | Core Architecture & Management Hub |
 | <a href="https://dashboarddronedt.vercel.app/" target="_blank">Drone DT</a> | `MERN` `TS` `Docker` `AWS` | 🟠 Development | E-Commerce and store for Drone Factory |
-| <a href="https://dronedtdashboard.vercel.app/" target="_blank">Drone DT: DashBoard</a> | `MERN` `TS` `AWS` `Docker` | 🟡 Construction| Management System For E-Commerce |
+| <a href="https://dashboarddronedt.vercel.app/" target="_blank">Drone DT: DashBoard</a> | `MERN` `TS` `AWS` `Docker` | 🟡 Construction| Management System For E-Commerce |
 | <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT</a> | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | High-Value Asset Management System |
 | <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT: DashBoard</a> | `MERN` `TS` `Docker` `AWS` | 🟡 Construction | Management System For Assets |
 | <a href="https://dtv.vercel.app/" target="_blank">Video Digital Twin APP</a> | `MERN` `TS` `Docker` `AWS` | 🟠 **ArquitectureFase** | Real-time industrial video monitoring |
