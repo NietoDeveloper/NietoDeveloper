@@ -43,7 +43,7 @@
 | <a href="https://dronedt.vercel.app/" target="_blank">Drone DT</a> | `MERN` `TS` `Docker` `AWS` | 🟠 Development | E-Commerce and store for Drone Factory |
 | <a href="https://dashboarddronedt.vercel.app/" target="_blank">Drone DT: DashBoard</a> | `MERN` `TS` `AWS` `Docker` `SQL` | 🟡 Construction | Management System For E-Commerce |
 | <a href="https://emeralddt.vercel.app/en" target="_blank">Emerald DT</a> | `Next.js` `TS` `Docker` `AWS` | 🟢 MVP Ready | High-Value Asset Management & E-Commerce |
-| <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT: DashBoard</a> | `Node.js` `TS` `Docker` `AWS` | 🟡 In Construction | Management System For Assets & Operations |
+| <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT: DashBoard</a> | `Node.js` `TS` `Docker` `AWS` | 🟡 Construction | Management System For Assets & Operations |
 | <a href="https://digitaltwinvideo.vercel.app/" target="_blank">Video Digital Twin APP</a> | `MERN` `TS` `Docker` `AWS` `SQL` | 🟠 ArchitectureFase | Real-time industrial video monitoring |
 
 ## 🛠️ Technologies That I Master
