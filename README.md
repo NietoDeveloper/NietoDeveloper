@@ -30,7 +30,7 @@
   <img src="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weekly" alt="Weekly Streak" width="85%" />
 </p>
 
-### 💻 Language Distribution & Technical Mastery (Nieto Laboratory)
+### 💻 Language Distribution & Technical Mastery (Manuel Nieto)
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&count_private=true&v=2026_S_PLUS_ELITE" alt="Languages" width="85%"/>
 </p>
