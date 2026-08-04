@@ -48,26 +48,27 @@
 
 ## 🛠️ Technologies That I Master
 
-<div style="background-color: #000000; border: 2px solid #FFD700; border-radius: 15px; padding: 15px; text-align: center;">
-<table align="center" style="border: none; border-collapse: separate; width: 100%; background-color: transparent;">
-  <tr>
-    <td align="center" style="border: none; padding: 10px;"><strong><span style="color: #FFD700;">Backend & Core</span></strong></td>
-    <td align="center" style="border: none; padding: 10px;"><strong><span style="color: #FFD700;">Frontend & Styling</span></strong></td>
-    <td align="center" style="border: none; padding: 10px;"><strong><span style="color: #FFD700;">Cloud & DevOps</span></strong></td>
-  </tr>
-  <tr>
-    <td align="center" style="border: none; padding: 15px;">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" height="50" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';" />
-    </td>
-    <td align="center" style="border: none; padding: 15px;">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,css" height="50" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';" />
-    </td>
-    <td align="center" style="border: none; padding: 15px;">
-      <img src="https://skillicons.dev/icons?i=aws,docker,railway,vercel,cloudflare,git,github,cursor" height="50" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';" />
-    </td>
-  </tr>
-</table>
+<div style="background-color: #000000; border: 2px solid #FFD700; border-radius: 15px; padding: 15px; box-shadow: 0 0 15px rgba(255, 215, 0, 0.4);">
+  <table align="center" style="border: none; border-collapse: separate; width: 100%; background: transparent;">
+    <tr>
+      <td align="center" style="border: none; padding: 10px;"><strong><span style="color: #FFD700; font-size: 16px;">Backend & Core</span></strong></td>
+      <td align="center" style="border: none; padding: 10px;"><strong><span style="color: #FFD700; font-size: 16px;">Frontend & Styling</span></strong></td>
+      <td align="center" style="border: none; padding: 10px;"><strong><span style="color: #FFD700; font-size: 16px;">Cloud, DevOps & Tools</span></strong></td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,js" height="50" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,css" height="50" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://skillicons.dev/icons?i=aws,docker,vercel,railway,cloudflare,github,cursor" height="50" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ## ⚡ Technical Identity
 
