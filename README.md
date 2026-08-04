@@ -48,18 +48,26 @@
 
 ## 🛠️ Technologies That I Master
 
-<table align="center" style="border: 2px solid #FFD700; border-radius: 15px; border-collapse: separate; background-color: #000000;">
+<div style="background-color: #000000; border: 2px solid #FFD700; border-radius: 15px; padding: 15px; text-align: center;">
+<table align="center" style="border: none; border-collapse: separate; width: 100%; background-color: transparent;">
   <tr>
     <td align="center" style="border: none; padding: 10px;"><strong><span style="color: #FFD700;">Backend & Core</span></strong></td>
     <td align="center" style="border: none; padding: 10px;"><strong><span style="color: #FFD700;">Frontend & Styling</span></strong></td>
     <td align="center" style="border: none; padding: 10px;"><strong><span style="color: #FFD700;">Cloud & DevOps</span></strong></td>
   </tr>
   <tr>
-    <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" height="50"/></td>
-    <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" height="50"/></td>
-    <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=aws,docker,vercel,github" height="50"/></td>
+    <td align="center" style="border: none; padding: 15px;">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" height="50" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';" />
+    </td>
+    <td align="center" style="border: none; padding: 15px;">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,css" height="50" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';" />
+    </td>
+    <td align="center" style="border: none; padding: 15px;">
+      <img src="https://skillicons.dev/icons?i=aws,docker,railway,vercel,cloudflare,git,github,cursor" height="50" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';" />
+    </td>
   </tr>
 </table>
+</div>
 
 ## ⚡ Technical Identity
 
