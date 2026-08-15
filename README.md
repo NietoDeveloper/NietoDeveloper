@@ -1,6 +1,6 @@
 <div align="center">
 
-# Manuel Nieto — Software Engineer | Full Stack  |  Architecture & Systems  | Cloud & Digital Twins Specialist 🚀
+# Manuel Nieto — Software Engineer | Full Stack  |  Architecture & Systems  | Cloud & Digital Twins 🚀
 
 ### Technical Performance: Triple Distinction for Public & Private Excellence
 
