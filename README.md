@@ -8,7 +8,7 @@
 [![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 [![Committers Top Private](https://user-badge.committers.top/colombia_private/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 
-### 🔥 Development Continuity & Streaks (S+ Cycle) ⚙️
+### 🔥 Development Continuity & Streaks⚙️
 
 <p align="center">
   <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" 
