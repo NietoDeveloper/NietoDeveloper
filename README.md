@@ -2,8 +2,6 @@
 
 # Manuel Nieto — Software Engineer | Full Stack  |  Architecture & Systems  | Cloud & Digital Twins 🚀
 
-### Technical Performance
-
 [![Committers Top Colombia](https://user-badge.committers.top/colombia/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 [![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
 [![Committers Top Private](https://user-badge.committers.top/colombia_private/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
