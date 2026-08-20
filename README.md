@@ -30,7 +30,7 @@
 
 ### 💻 Language Distribution & Technical
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&count_private=true&v=2026_S_PLUS_ELITE" alt="Languages" width="85%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&count_private=true&show_icons=false&hide_title=false&v=2026_S_PLUS_ELITE" alt="Languages" width="85%"/>
 </p>
 
 ---
