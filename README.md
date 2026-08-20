@@ -30,7 +30,7 @@
 
 ### 💻 Language Distribution & Technical
 <p align="center">
-<img src="https://github-readme.vercel.app/api?username=NietoDeveloper&show_icons=true&theme=tokyonight&locale=es&include_all_commits=true&count_private=true" alt="GitHub Stats" width="85%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=donut&langs_count=6&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&count_private=true" alt="Languages Donut" width="85%"/>
 </p>
 
 ---
