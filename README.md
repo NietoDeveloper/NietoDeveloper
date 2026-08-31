@@ -1,22 +1,5 @@
 <h1 align="center">Manuel Nieto — Software Engineer | Full Stack | Architecture & Systems | Cloud & Digital Twins 🚀</h1>
 
-<!-- 👉 Aquí va tu nuevo banner en movimiento -->
-
-<p align="center">
-  <a href="https://committers.top/colombia#NietoDeveloper">
-    <img src="https://user-badge.committers.top/colombia/NietoDeveloper.svg" alt="Committers Top Colombia" />
-  </a>
-  <a href="https://committers.top/colombia#NietoDeveloper">
-    <img src="https://user-badge.committers.top/colombia_public/NietoDeveloper.svg" alt="Committers Top Public" />
-  </a>
-  <a href="https://committers.top/colombia#NietoDeveloper">
-    <img src="https://user-badge.committers.top/colombia_private/NietoDeveloper.svg" alt="Committers Top Private" />
-  </a>
-  <a href="https://github.com/NietoDeveloper">
-    <img src="https://org-badge.committers.top/worldwide/NietoDeveloper.svg" alt="Committers Top Worldwide" />
-  </a>
-</p>
-
 ### 🔥 Development Continuity & Streaks ⚙️
 
 <p align="center">
@@ -35,6 +18,21 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weekly" alt="Weekly Streak" width="85%" />
+</p>
+
+<p align="center">
+  <a href="https://committers.top/colombia#NietoDeveloper">
+    <img src="https://user-badge.committers.top/colombia/NietoDeveloper.svg" alt="Committers Top Colombia" />
+  </a>
+  <a href="https://committers.top/colombia#NietoDeveloper">
+    <img src="https://user-badge.committers.top/colombia_public/NietoDeveloper.svg" alt="Committers Top Public" />
+  </a>
+  <a href="https://committers.top/colombia#NietoDeveloper">
+    <img src="https://user-badge.committers.top/colombia_private/NietoDeveloper.svg" alt="Committers Top Private" />
+  </a>
+  <a href="https://github.com/NietoDeveloper">
+    <img src="https://org-badge.committers.top/worldwide/NietoDeveloper.svg" alt="Committers Top Worldwide" />
+  </a>
 </p>
 
 ---
