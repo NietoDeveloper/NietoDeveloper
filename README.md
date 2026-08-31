@@ -3,10 +3,6 @@
 ### 🔥 Development Continuity & Streaks ⚙️
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" alt="Rank S Plus Notorio" height="150" />
-</p>
-
-<p align="center">
   <a href="https://github.com/NietoDeveloper?tab=stars">
     <img src="https://img.shields.io/github/stars/NietoDeveloper?style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" alt="Total Stars" />
   </a>
@@ -33,6 +29,11 @@
   <a href="https://github.com/NietoDeveloper">
     <img src="https://org-badge.committers.top/worldwide/NietoDeveloper.svg" alt="Committers Top Worldwide" />
   </a>
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" alt="Rank S Plus Notorio" height="150" />
 </p>
 
 ---
