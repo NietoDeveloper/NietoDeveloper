@@ -1,93 +1,83 @@
-<div align="center">
-
 # Manuel Nieto — Software Engineer | Full Stack  |  Architecture & Systems  | Cloud & Digital Twins 🚀
 
-[![Committers Top Colombia](https://user-badge.committers.top/colombia/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
-[![Committers Top Public](https://user-badge.committers.top/colombia_public/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
-[![Committers Top Private](https://user-badge.committers.top/colombia_private/NietoDeveloper.svg)](https://committers.top/colombia#NietoDeveloper)
+
+
+
+
 
 ### 🔥 Development Continuity & Streaks⚙️
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" 
-       alt="Rank S Plus Notorio" 
-       height="150" />
-</p>
+  https://img.shields.io/badge/GITHUB_RANK-S%2b-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700"        alt="Rank S Plus Notorio"        height="150" />
 
-<p align="center">
-  <a href="https://github.com/NietoDeveloper?tab=stars">
-    <img src="https://img.shields.io/github/stars/NietoDeveloper?style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" alt="Total Stars" />
-  </a>
-</p>
+  https://github.com/NietoDeveloper?tab=stars">    https://img.shields.io/github/stars/NietoDeveloper?style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" alt="Total Stars" />  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&sideNums=DCDCDC&sideLabels=FEB60D&dates=DCDCDC&count_private=true" alt="Daily Streak" width="85%" />
-</p>
+  https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&sideNums=DCDCDC&sideLabels=FEB60D&dates=DCDCDC&count_private=true" alt="Daily Streak" width="85%" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weekly" alt="Weekly Streak" width="85%" />
-</p>
+  https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&count_private=true&mode=weekly" alt="Weekly Streak" width="85%" />
 
 ### 💻 Language Distribution & Technical
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=donut&langs_count=6&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&count_private=true" alt="Languages Donut" width="85%"/>
-</p>
+https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NietoDeveloper&layout=donut&langs_count=6&title_color=FFD700&icon_color=FEB60D&text_color=DCDCDC&bg_color=000000&border_color=FFD700&border_radius=15&count_private=true" alt="Languages Donut" width="85%"/>
 
 ---
-## 🚀 Active Ecosystems (DT Projects)
+## 🚀 Active Projects
 
 | Project | Core Stack | Status | Purpose |
 |---------|------------|--------|---------|
-| <a href="https://dronedt.vercel.app/" target="_blank">Drone DT</a> | `MERN` `TS` `Docker` `AWS` | 🟠 Development | E-Commerce and store for Drone Factory |
-| <a href="https://dashboarddronedt.vercel.app/" target="_blank">Drone DT: DashBoard</a> | `MERN` `TS` `AWS` `Docker` `SQL` | 🟡 Construction | Management System For E-Commerce |
-| <a href="https://emeralddt.vercel.app/en" target="_blank">Emerald DT</a> | `Next.js` `TS` `Docker` `AWS` | 🟢 MVP Ready | High-Value Asset Management & E-Commerce |
-| <a href="https://emeralddt.vercel.app/" target="_blank">Emerald DT: DashBoard</a> | `Node.js` `TS` `Docker` `AWS` | 🟡 Construction | Management System For Assets & Operations |
-| <a href="https://digitaltwinvideo.vercel.app/" target="_blank">Video Digital Twin APP</a> | `MERN` `TS` `Docker` `AWS` `SQL` | 🟠 ArchitectureFase | Real-time industrial video monitoring |
+| https://dronedt.vercel.app/" target="_blank">Drone DT | `MERN` `TS` `Docker` `AWS` | 🟠 Development | E-Commerce and store for Drone Factory |
+| https://dashboarddronedt.vercel.app/" target="_blank">Drone DT: DashBoard | `MERN` `TS` `AWS` `Docker` `SQL` | 🟡 Construction | Management System For E-Commerce |
+| https://emeralddt.vercel.app/en" target="_blank">Emerald DT | `Next.js` `TS` `Docker` `AWS` | 🟢 MVP Ready | High-Value Asset Management & E-Commerce |
+| https://emeralddt.vercel.app/" target="_blank">Emerald DT: DashBoard | `Node.js` `TS` `Docker` `AWS` | 🟡 Construction | Management System For Assets & Operations |
+| https://digitaltwinvideo.vercel.app/" target="_blank">Video Digital Twin APP | `MERN` `TS` `Docker` `AWS` `SQL` | 🟠 Architecture Fase | Real-time industrial video monitoring |
+| Eduplattaform DT | `Next.js` `TS` `Node.js` `AWS` | 🔵 Architecture | Educational and Scalable DT Platform |
+
+---
+## 🏢 In Production
+
+| Project | Core Stack | Status | Purpose |
+|---------|------------|--------|---------|
+| https://www.softwaredt.com/" target="_blank">Software DT | `React` `Node.js` `Tailwind` `AWS` | 🟢 Production | Software Company & Architecture Systems |
 
 ## 🛠️ Technologies That I Master
 
-<div style="background-color: #000000; border: 2px solid #FFD700; border-radius: 15px; padding: 15px; box-shadow: 0 0 15px rgba(255, 215, 0, 0.4);">
-  <table align="center" style="border: none; border-collapse: separate; width: 100%; background: transparent;">
-    <tr>
-      <td align="center" style="border: none; padding: 10px;"><strong><span style="color: #FFD700; font-size: 16px;">Backend & Core</span></strong></td>
-      <td align="center" style="border: none; padding: 10px;"><strong><span style="color: #FFD700; font-size: 16px;">Frontend & Styling</span></strong></td>
-      <td align="center" style="border: none; padding: 10px;"><strong><span style="color: #FFD700; font-size: 16px;">Cloud, DevOps & Tools</span></strong></td>
-    </tr>
-    <tr>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,js" height="50" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,css" height="50" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://skillicons.dev/icons?i=aws,docker,vercel,railway,cloudflare,github,cursor" height="50" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-      </td>
-    </tr>
-  </table>
-</div>
+
+  
+    
+      Backend & Core
+      Frontend & Styling
+      Cloud, DevOps & Tools
+    
+    
+      
+        https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,js" height="50" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+      
+      
+        https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,css" height="50" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+      
+      
+        https://skillicons.dev/icons?i=aws,docker,vercel,railway,cloudflare,github,cursor" height="50" style="transition: transform 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+      
+    
+  
+
 
 
 ## ⚡ Technical Identity
 
-*   **<span style="color: #FFD700;">Performance:</span>** Ranked #1 in Colombia committers.top among <img src="https://img.shields.io/badge/80,000+-Developers-FFD700?style=flat-square&labelColor=000000" align="center" /> and GitHub Rank S+
+*   **Performance:** Ranked #1 in Colombia committers.top among https://img.shields.io/badge/80,000+-Developers-FFD700?style=flat-square&labelColor=000000" align="center" /> and GitHub Rank S+
 
-*   **<span style="color: #FFD700;">Engineering Focus:</span>** Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments
+*   **Engineering Focus:** Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments
 
-*   **<span style="color: #FFD700;">Architecture:</span>** "High-availability double-cluster architecture engineered for maximum scalability and industrial-grade security."
+*   **Architecture:** "High-availability double-cluster architecture engineered for maximum scalability and industrial-grade security."
 
-*   **<span style="color: #FFD700;">E-Commerce Dashboard:</span>** Control panel for managing sales, inventory, users, employees, and messages — built for modern industrial-scale e-commerce operations, secure and scalable.
+*   **E-Commerce Dashboard:** Control panel for managing sales, inventory, users, employees, and messages — built for modern industrial-scale e-commerce operations, secure and scalable.
 
-*   **<span style="color: #FFD700;">Industrial E-Commerce Platform:</span>** Modern, scalable, and secure e-commerce system for product sales, inventory management, users, and employees.
+*   **Industrial E-Commerce Platform:** Modern, scalable, and secure e-commerce system for product sales, inventory management, users, and employees.
 
-*   **<span style="color: #FFD700;">Digital Twin Video App:</span>** Application for processing a digital twin from video input — currently under development.
+*   **Digital Twin Video App:** Application for processing a digital twin from video input — currently under development.
 
-<br />
+
 
 > **"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."**
 
 **Last Updated: August 31, 2026** 
 
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
