@@ -31,9 +31,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" alt="Rank S Plus Notorio" height="150" />
-    <a href="https://github.com/NietoDeveloper">
-    <img src="https://org-badge.committers.top/worldwide/NietoDeveloper.svg" alt="Committers Top Worldwide" />
-  </a>
 </p>
 
 ---
