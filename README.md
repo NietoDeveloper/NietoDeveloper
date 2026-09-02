@@ -26,14 +26,14 @@
   <a href="https://committers.top/colombia#NietoDeveloper">
     <img src="https://user-badge.committers.top/colombia_private/NietoDeveloper.svg" alt="Committers Top Private" />
   </a>
-  <a href="https://github.com/NietoDeveloper">
-    <img src="https://org-badge.committers.top/worldwide/NietoDeveloper.svg" alt="Committers Top Worldwide" />
-  </a>
 </p>
 
 
 <p align="center">
   <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" alt="Rank S Plus Notorio" height="150" />
+    <a href="https://github.com/NietoDeveloper">
+    <img src="https://org-badge.committers.top/worldwide/NietoDeveloper.svg" alt="Committers Top Worldwide" />
+  </a>
 </p>
 
 ---
@@ -88,4 +88,4 @@
 
 > **"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."**
 
-**Last Updated: August 31, 2026**
+**Last Updated: September 3, 2026**
