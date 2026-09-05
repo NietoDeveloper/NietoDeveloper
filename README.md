@@ -71,17 +71,13 @@
 
 ## ⚡ Technical Identity
 
-*   **Performance:** Ranked #1 in Colombia committers.top among <img src="https://img.shields.io/badge/80,000+-Developers-FFD700?style=flat-square&labelColor=000000" align="center" /> and GitHub Rank S+
+Engineering Focus: Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments
 
-*   **Engineering Focus:** Low-latency Digital Twin dashboards, complex MERN state management, and high-availability AWS/Docker deployments
+Architecture: High-availability double-cluster architecture engineered for maximum scalability and industrial-grade security
 
-*   **Architecture:** "High-availability double-cluster architecture engineered for maximum scalability and industrial-grade security."
+Drone DT E-Commerce Platform & Dashboard: Scalable e-commerce ecosystem and administrative control panel for industrial operations, featuring real-time sales, inventory tracking, in-app messaging, and role-based user management built with Next.js and Zustand
 
-*   **E-Commerce Dashboard:** Control panel for managing sales, inventory, users, employees, and messages — built for modern industrial-scale e-commerce operations, secure and scalable.
-
-*   **Industrial E-Commerce Platform:** Modern, scalable, and secure e-commerce system for product sales, inventory management, users, and employees.
-
-*   **Digital Twin Video App:** Application for processing a digital twin from video input — currently under development.
+Digital Twin Video App: Independent software product by Software DT for real-time digital twin processing from video input (under development)
 
 > **"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."**
 
