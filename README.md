@@ -1,6 +1,8 @@
 <h1 align="center">Manuel Nieto — Software Engineer | Full Stack | Architecture & Systems | Cloud & Digital Twins 🚀</h1>
 
-### 🔥 Development Continuity & Streaks ⚙️
+<p>
+  <a>### 🔥 Development Continuity & Streaks ⚙️</a>
+</p>
 
 <p align="center">
   <a href="https://github.com/NietoDeveloper?tab=stars">
