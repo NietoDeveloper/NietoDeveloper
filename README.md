@@ -102,5 +102,5 @@
 </h3>
 
 <p align="center">
-  <strong>Last Updated: September 29, 2026</strong>
+  <strong>Last Updated: October 7, 2026</strong>
 </p>
