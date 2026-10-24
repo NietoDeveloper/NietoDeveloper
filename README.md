@@ -57,7 +57,7 @@
 
 | Project | Core Stack | Status | Purpose |
 |---------|------------|--------|---------|
-| [Software DT](https://www.softwaredt.com/) | `React` `Node.js` `Tailwind` `AWS` | 🟢 Production | Software Company & Architecture Systems |
+| [Software DT](https://www.softwaredt.com/) | `React` `Node.js` `Tailwind` `AWS` `Docker` `Vercel` `Cloudflare` `Railway` `Resend` `WOMPI` | 🟢 Production | Software Company & Architecture Systems |
 
 </div>
 
