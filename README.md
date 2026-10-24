@@ -41,9 +41,7 @@
 | Project | Core Stack | Status | Purpose |
 |---------|------------|--------|---------|
 | [Drone DT](https://dronedt.vercel.app/) | `MERN` `TS` `Docker` `AWS` | 🟢 MVP Ready | E-Commerce and store for Drone Factory |
-| [Drone DT: DashBoard](https://dashboarddronedt.vercel.app/) | `MERN` `TS` `AWS` `Docker` `SQL` | 🟢 MVP Ready | Management System For E-Commerce |
 | [Emerald DT](https://emeralddt.vercel.app/en) | `Next.js` `TS` `Docker` `AWS` | 🟢 MVP Ready | High-Value Asset Management & E-Commerce |
-| [Emerald DT: DashBoard](https://emeralddt.vercel.app/) | `Node.js` `TS` `Docker` `AWS` | 🟢 MVP Ready | Management System For Assets & Operations |
 | [Video Digital Twin APP](https://digitaltwinvideo.vercel.app/) | `MERN` `TS` `C++` `Python` `Docker` `AWS` `SQL` | 🟡 Construction | Real-time industrial video monitoring |
 | Eduplattaform DT | `Next.js` `TS` `Node.js` `AWS` | 🔵 Architecture | Educational and Scalable DT Platform |
 
