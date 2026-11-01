@@ -42,7 +42,7 @@
 |---------|------------|--------|---------|
 | [Drone DT](https://dronedt.vercel.app/) | `MERN` `TS` `Docker` `AWS` | 🟢 MVP Ready | E-Commerce and store for Drone Factory |
 | [Emerald DT](https://emeralddt.vercel.app/en) | `Next.js` `TS` `Docker` `AWS` | 🟢 MVP Ready | High-Value Asset Management & E-Commerce |
-| [Video Digital Twin APP](https://digitaltwinvideo.vercel.app/) | `MERN` `TS` `C++` `Python` `Docker` `AWS` `SQL` | 🟡 Construction | Real-time industrial video monitoring |
+| [Digital Twin DT](https://digitaltwinvideo.vercel.app/) | `MERN` `TS` `C++` `Python` `Docker` `AWS` `SQL` | 🟡 Construction | Real-time industrial video monitoring |
 | Eduplattaform DT | `Next.js` `TS` `Node.js` `AWS` | 🔵 Architecture | Educational and Scalable DT Platform |
 
 </div>
@@ -100,5 +100,5 @@
 </h3>
 
 <p align="center">
-  <strong>Last Updated: November 3, 2026</strong>
+  <strong>Last Updated: November 4, 2026</strong>
 </p>
