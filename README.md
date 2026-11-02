@@ -1,4 +1,4 @@
-<h1 align="center">Manuel Nieto — Software Engineer | Full Stack | Architecture & Systems | Cloud & Digital Twins 🚀</h1>
+<h1 align="center">Technical Product Manager & Software Architect — Driving product lifecycle from technical architecture to business strategy</h1>
 
 <h3 align="center"> 🔥 Development Continuity & Streaks ⚙️</h3>
 
