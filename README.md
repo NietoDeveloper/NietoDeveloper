@@ -29,6 +29,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&theme=dark&color_title=FFD700&color_text=FFFFFF&bg_color=000000&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/GITHUB_RANK-S%2b-FFD700?style=for-the-badge&labelColor=000000&logo=github&logoColor=FFD700" alt="Rank S Plus Notorio" height="150" />
 </p>
 
