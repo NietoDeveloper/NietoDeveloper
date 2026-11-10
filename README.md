@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&theme=dark&color_title=FFD700&color_text=FFFFFF&bg_color=000000&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NietoDeveloper&theme=black" alt="Estadísticas de Lenguajes" />
 </p>
 
 <p align="center">
