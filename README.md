@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&theme=dark&color_title=FFD700&color_text=FFFFFF&bg_color=000000&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=pie&theme=dark&color_title=FFD700&color_text=FFFFFF&bg_color=000000&hide_border=true" alt="Porcentaje de Tecnologías" />
 </p>
 
 <p align="center">
