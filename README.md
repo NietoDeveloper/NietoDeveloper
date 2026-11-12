@@ -40,9 +40,9 @@
 
 | Project | Core Stack | Status | Purpose |
 |---------|------------|--------|---------|
+| [Digital Twin DT](https://digitaltwinvideo.vercel.app/) | `MERN` `TS` `C++` `Python` `Docker` `AWS` `Vercel` `Railway` `Resend` `WOMPI` | 🟡 Construction | Real-time industrial video monitoring |
 | [Drone DT](https://dronedt.vercel.app/) | `MERN` `TS` `Docker` `AWS` | 🟢 MVP Ready | E-Commerce and store for Drone Factory |
 | [Emerald DT](https://emeralddt.vercel.app/en) | `Next.js` `TS` `Docker` `AWS` | 🟢 MVP Ready | High-Value Asset Management & E-Commerce |
-| [Digital Twin DT](https://digitaltwinvideo.vercel.app/) | `MERN` `TS` `C++` `Python` `Docker` `AWS` `SQL` | 🟡 Construction | Real-time industrial video monitoring |
 | Eduplattaform DT | `Next.js` `TS` `Node.js` `AWS` | 🔵 Architecture | Educational and Scalable DT Platform |
 
 </div>
@@ -55,7 +55,7 @@
 
 | Project | Core Stack | Status | Purpose |
 |---------|------------|--------|---------|
-| [Software DT](https://www.softwaredt.com/) | `React` `Node.js` `Tailwind` `AWS` `Docker` `Vercel` `Cloudflare` `Railway` `Resend` `WOMPI` | 🟢 Production | Software Company & Architecture Systems |
+| [Software DT](https://www.softwaredt.com/) | `React` `Node.js` `Tailwind` `AWS` `Docker` `Vercel` `Cloudflare` `Resend` `WOMPI` `Railway` | 🟢 Production | Software Company & Architecture Systems |
 
 </div>
 
