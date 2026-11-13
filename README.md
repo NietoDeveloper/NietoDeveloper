@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="https://github.com/NietoDeveloper?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NietoDeveloper&theme=github_dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&border_color=FFD700&exclude=HTML,CSS,Shell" alt="Repos Per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NietoDeveloper&bg_color=000000&title_color=FFD700&text_color=FFD700&border_color=FFD700&icon_color=FFD700&exclude=HTML,CSS,Shell" alt="Repos Per Language" />
   </a>
 </p>
 
