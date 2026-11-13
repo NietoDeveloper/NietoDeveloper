@@ -78,16 +78,29 @@
   </tr>
 </table>
 
+<!-- 1. GitHub Readme Stats - Compact Layout (Clásico con barra horizontal) -->
 <p align="center">
-  <a href="https://github.com/NietoDeveloper?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NietoDeveloper&bg_color=000000&title_color=FFD700&text_color=FFD700&border_color=FFD700&icon_color=FFD700&exclude=HTML,CSS,Shell" alt="Repos Per Language" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700" alt="Top Languages Compact" />
 </p>
 
+<!-- 2. GitHub Readme Stats - Donut Layout (Gráfico de anillo minimalista) -->
 <p align="center">
-  <a href="https://github.com/NietoDeveloper">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NietoDeveloper&theme=github_dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&border_color=FFD700" alt="Most Commit Language" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=donut&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700" alt="Top Languages Donut" />
+</p>
+
+<!-- 3. GitHub Readme Stats - Donut Vertical (Anillo con lista limpia debajo) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=donut-vertical&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700" alt="Top Languages Donut Vertical" />
+</p>
+
+<!-- 4. GitHub Profile Summary Cards (Motor alternativo si Vercel tarda en cargar) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NietoDeveloper&theme=github_dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&border_color=FFD700" alt="Most Commit Language" />
+</p>
+
+<!-- 5. GitHub Stats - Pie Chart (Gráfico circular completo con porcentajes) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=pie&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700" alt="Top Languages Pie" />
 </p>
 
 ---
