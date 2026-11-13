@@ -78,6 +78,12 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/NietoDeveloper?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NietoDeveloper&theme=github_dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&border_color=FFD700&exclude=HTML,CSS,Shell" alt="Repos Per Language" />
+  </a>
+</p>
+
 ---
 
 <h2 align="center">⚡ Professional Profile & Engineering Impact</h2>
@@ -94,41 +100,6 @@
 - **Methodology & Execution:** Driven by strict execution standards, automated CI/CD pipelines, containerized deployments, and robust state management to bridge complex backend data orchestration with Tesla/SpaceX-inspired responsive UI/UX.
 
 <br>
-
-<!-- OPCIÓN 1: GitHub Readme Stats (Diseño Donut / Circular Compacto) -->
-<p align="center">
-  <a href="https://github.com/NietoDeveloper">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=donut&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700&hide_border=false" alt="Top Languages Donut" />
-  </a>
-</p>
-
-<!-- OPCIÓN 2: GitHub Readme Stats (Diseño Compacto Horizontal en Barra) -->
-<p align="center">
-  <a href="https://github.com/NietoDeveloper">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700&hide_border=false" alt="Top Languages Compact" />
-  </a>
-</p>
-
-<!-- OPCIÓN 3: GitHub Readme Stats (Diseño Pie / Pastel con porcentajes) -->
-<p align="center">
-  <a href="https://github.com/NietoDeveloper">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=pie&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700&hide_border=false" alt="Top Languages Pie" />
-  </a>
-</p>
-
-<!-- OPCIÓN 4: GitHub Profile Summary Cards (Motor alternativo, evita caídas de Vercel) -->
-<p align="center">
-  <a href="https://github.com/NietoDeveloper">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NietoDeveloper&theme=github_dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&border_color=FFD700" alt="Most Commit Language" />
-  </a>
-</p>
-
-<!-- OPCIÓN 5: GitHub Readme Streak / Tech Stack Badge (Lenguajes por repositorios) -->
-<p align="center">
-  <a href="https://github.com/NietoDeveloper">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NietoDeveloper&theme=github_dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&border_color=FFD700" alt="Repos Per Language" />
-  </a>
-</p>
 
 <h3 align="center">
   <b>"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."</b>
