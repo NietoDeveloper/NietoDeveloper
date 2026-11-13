@@ -3,38 +3,10 @@
 <h3 align="center"> 🔥 Development Continuity & Streaks ⚙️</h3>
 
 <p align="center">
-  <a href="https://github.com/NietoDeveloper?tab=stars">
-    <img src="https://img.shields.io/github/stars/NietoDeveloper?style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" alt="Total Stars" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/NietoDeveloper?tab=repositories">
     <img src="https://img.shields.io/github/stars/NietoDeveloper?affiliations=OWNER&style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700&label=TOTAL%20STARS" alt="Total Stars" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/NietoDeveloper?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FNietoDeveloper&query=%24.stars&style=for-the-badge&label=STARS&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700" alt="Total Stars" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/NietoDeveloper?tab=repositories">
-    <img src="https://img.shields.io/github/stars/NietoDeveloper?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700&label=GITHUB%20STARS" alt="Total Stars" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/NietoDeveloper">
-    <img src="https://github-readme-stats.vercel.app/api?username=NietoDeveloper&show_icons=true&hide=commits,prs,issues,contribs&title_color=FFD700&icon_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700&hide_rank=true" alt="GitHub Stars" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/NietoDeveloper?tab=repositories">
-    <img src="https://img.shields.io/github/stars/NietoDeveloper?style=for-the-badge&color=FFD700&labelColor=000000&logo=github&logoColor=FFD700&cacheSeconds=3600" alt="Total Stars" />
-  </a>
-</p>
-
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=NietoDeveloper&theme=dark&background=000000&fire=FFD700&ring=FFD700&currStreakLabel=FEB60D&currStreakNum=DCDCDC&sideNums=DCDCDC&sideLabels=FEB60D&dates=DCDCDC&count_private=true" alt="Daily Streak" width="85%" />
@@ -122,6 +94,41 @@
 - **Methodology & Execution:** Driven by strict execution standards, automated CI/CD pipelines, containerized deployments, and robust state management to bridge complex backend data orchestration with Tesla/SpaceX-inspired responsive UI/UX.
 
 <br>
+
+<!-- OPCIÓN 1: GitHub Readme Stats (Diseño Donut / Circular Compacto) -->
+<p align="center">
+  <a href="https://github.com/NietoDeveloper">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=donut&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700&hide_border=false" alt="Top Languages Donut" />
+  </a>
+</p>
+
+<!-- OPCIÓN 2: GitHub Readme Stats (Diseño Compacto Horizontal en Barra) -->
+<p align="center">
+  <a href="https://github.com/NietoDeveloper">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700&hide_border=false" alt="Top Languages Compact" />
+  </a>
+</p>
+
+<!-- OPCIÓN 3: GitHub Readme Stats (Diseño Pie / Pastel con porcentajes) -->
+<p align="center">
+  <a href="https://github.com/NietoDeveloper">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=pie&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700&hide_border=false" alt="Top Languages Pie" />
+  </a>
+</p>
+
+<!-- OPCIÓN 4: GitHub Profile Summary Cards (Motor alternativo, evita caídas de Vercel) -->
+<p align="center">
+  <a href="https://github.com/NietoDeveloper">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NietoDeveloper&theme=github_dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&border_color=FFD700" alt="Most Commit Language" />
+  </a>
+</p>
+
+<!-- OPCIÓN 5: GitHub Readme Streak / Tech Stack Badge (Lenguajes por repositorios) -->
+<p align="center">
+  <a href="https://github.com/NietoDeveloper">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NietoDeveloper&theme=github_dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&border_color=FFD700" alt="Repos Per Language" />
+  </a>
+</p>
 
 <h3 align="center">
   <b>"Building scalable systems with 100% discipline. Code that scales, architecture that lasts."</b>
