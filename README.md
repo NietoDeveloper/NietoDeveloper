@@ -78,29 +78,29 @@
   </tr>
 </table>
 
-<!-- 1. GitHub Readme Stats - Compact Layout (Clásico con barra horizontal) -->
+<!-- 1. Repositorios por lenguaje - Tema 2077 (Fondo negro/oscuro con acentos neón/dorados) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700" alt="Top Languages Compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NietoDeveloper&theme=2077" alt="Repos per Language 2077" />
 </p>
 
-<!-- 2. GitHub Readme Stats - Donut Layout (Gráfico de anillo minimalista) -->
+<!-- 2. Repositorios por lenguaje - Tema GitHub Dark (Negro puro minimalista) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=donut&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700" alt="Top Languages Donut" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NietoDeveloper&theme=github_dark" alt="Repos per Language Dark" />
 </p>
 
-<!-- 3. GitHub Readme Stats - Donut Vertical (Anillo con lista limpia debajo) -->
+<!-- 3. Repositorios por lenguaje - Tema Monokai (Fondo negro carbón con amarillo/gold nativo) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=donut-vertical&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700" alt="Top Languages Donut Vertical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NietoDeveloper&theme=monokai" alt="Repos per Language Monokai" />
 </p>
 
-<!-- 4. GitHub Profile Summary Cards (Motor alternativo si Vercel tarda en cargar) -->
+<!-- 4. Repositorios por lenguaje - Tema Gruvbox (Tonos oscuros con dorado/ámbar cálido) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NietoDeveloper&theme=github_dark&bg_color=000000&title_color=FFD700&text_color=DCDCDC&border_color=FFD700" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NietoDeveloper&theme=gruvbox" alt="Repos per Language Gruvbox" />
 </p>
 
-<!-- 5. GitHub Stats - Pie Chart (Gráfico circular completo con porcentajes) -->
+<!-- 5. Motor alternativo (GitHub Stats) contando por peso/repositorios con negro (#000000) y Gold (#FFD700) exactos -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NietoDeveloper&layout=pie&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700" alt="Top Languages Pie" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700" alt="Top Languages Mirror" />
 </p>
 
 ---
