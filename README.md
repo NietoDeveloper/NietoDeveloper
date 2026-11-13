@@ -65,6 +65,11 @@
 
 <br />
 
+<!-- 2. Repositorios por lenguaje - Tema GitHub Dark (Negro puro minimalista) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NietoDeveloper&theme=github_dark" alt="Repos per Language Dark" />
+</p>
+
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <th align="center" style="color: #FFD700; padding: 10px;">Backend & Core</th>
@@ -77,26 +82,6 @@
     <td align="center" style="padding: 15px;"><img src="https://skillicons.dev/icons?i=aws,docker,vercel,railway,cloudflare,github,cursor" height="50" style="transition: all 0.3s ease; cursor: pointer; filter: drop-shadow(0px 0px 2px rgba(255,215,0,0.2));" onmouseover="this.style.transform='scale(1.15)'; this.style.filter='drop-shadow(0px 0px 8px #FFD700)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='drop-shadow(0px 0px 2px rgba(255,215,0,0.2))';" /></td>
   </tr>
 </table>
-
-<!-- 1. Repositorios por lenguaje - Tema 2077 (Fondo negro/oscuro con acentos neón/dorados) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NietoDeveloper&theme=2077" alt="Repos per Language 2077" />
-</p>
-
-<!-- 2. Repositorios por lenguaje - Tema GitHub Dark (Negro puro minimalista) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NietoDeveloper&theme=github_dark" alt="Repos per Language Dark" />
-</p>
-
-<!-- 3. Repositorios por lenguaje - Tema Monokai (Fondo negro carbón con amarillo/gold nativo) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NietoDeveloper&theme=monokai" alt="Repos per Language Monokai" />
-</p>
-
-<!-- 4. Repositorios por lenguaje - Tema Gruvbox (Tonos oscuros con dorado/ámbar cálido) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NietoDeveloper&theme=gruvbox" alt="Repos per Language Gruvbox" />
-</p>
 
 <!-- 5. Motor alternativo (GitHub Stats) contando por peso/repositorios con negro (#000000) y Gold (#FFD700) exactos -->
 <p align="center">
