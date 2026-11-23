@@ -83,11 +83,6 @@
   </tr>
 </table>
 
-<!-- 5. Motor alternativo (GitHub Stats) contando por peso/repositorios con negro (#000000) y Gold (#FFD700) exactos -->
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NietoDeveloper&layout=compact&langs_count=8&title_color=FFD700&text_color=DCDCDC&bg_color=000000&border_color=FFD700" alt="Top Languages Mirror" />
-</p>
-
 ---
 
 <h2 align="center">⚡ Professional Profile & Engineering Impact</h2>
@@ -110,5 +105,5 @@
 </h3>
 
 <p align="center">
-  <strong>Last Updated: November 24, 2026</strong>
+  <strong>Last Updated: November 25, 2026</strong>
 </p>
