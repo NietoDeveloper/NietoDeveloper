@@ -40,7 +40,7 @@
 
 | Project | Core Stack | Status | Purpose |
 |---------|------------|--------|---------|
-| [Digital Twin DT](https://digitaltwindt.vercel.app/) | `MERN` `TS` `C++` `Python` `Docker` `AWS` `Vercel` `Railway` `Resend` `WOMPI` `Atlas` `Cloudflare` | 🟢 MVP Ready | Real-time industrial video monitoring |
+| [Digital Twin DT](https://digitaltwindt.vercel.app/) | `MERN` `TS` `C++` `Python` `Docker` `AWS` `Vercel` `Railway` `Resend` `WOMPI` `Atlas` `Cloudflare` | 🟢 MVP Ready | 🐳 Digital Twin Video DT: turn video + photos into sharp 3D digital twins.  Real-time industrial monitoring |
 | [Drone DT](https://dronedt.vercel.app/) | `MERN` `TS` `Docker` `AWS` | 🟢 MVP Ready | E-Commerce and store for Drone Factory |
 | [Emerald DT](https://emeralddt.vercel.app/en) | `Next.js` `TS` `Docker` `AWS` | 🟢 MVP Ready | High-Value Asset Management & E-Commerce |
 | Eduplattaform DT | `Next.js` `TS` `Node.js` `AWS` | 🔵 Architecture | Educational and Scalable DT Platform |
